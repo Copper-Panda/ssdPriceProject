@@ -2,25 +2,45 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>产品表格示例</title>
+    <title>SSD Price</title>
     <link rel="stylesheet" href="./css/styles.css">
+    <link rel="icon" href="./data/favicon.ico" type="image/x-icon">
 </head>
 <body>
     <div id="container">
-        <div id="filter-section">
-            <!-- 筛选器的HTML -->
-            <label for="capacity-unit">容量单位:</label>
-            <select id="capacity-unit" onchange="updateTable()">
-                <option value="TB">TB</option>
-                <option value="GB">GB</option>
-            </select>
+        <div id="filter-section"> 
+            <!-- 筛选器的HTML --> 
+            <body>Source by amazon.com</body>
+            <div class="separator"></div> 
+            <label for="capacity-unit">Capacity Unit</label> 
+            <select id="capacity-unit" onchange="updateTable()"> 
+                <option value="TB">TB</option> 
+                <option value="GB">GB</option> 
+            </select> 
+            <div class="separator"></div> 
+            <label for="min-capacity">Min Capacity</label>
+            <input type="number" id="min-capacity" name="min-capacity" min="0">
+            <label for="max-capacity">Max Capacity</label>
+            <input type="number" id="max-capacity" name="max-capacity" min="0">
+            <div class="separator"></div> 
+            <label for="technology">Technology</label> 
+            <select id="technology" onchange="updateTable()"> 
+                <option value="all" selected>ALL</option> <!-- 'selected' attribute added -->
+                <option value="SATA">SATA</option> 
+                <option value="NVMe">NVMe</option> 
+                <option value="USB">USB</option> 
+            </select> 
+            <div class="separator"></div> 
+            <a href="./FAQ.html">FAQ</a>
         </div>
+        <!-- New Form Factor filter -->
+
         <div id="table-section">
             <!-- 表格的HTML -->
             <table id="data-table">
                 <thead>
                     <tr>
-                        <th>Price per Unit</th>
+                        <th id="price-per-unit-header">Price per Unit</th>
                         <th>Price</th>
                         <th>Capacity</th>
                         <th>Technology</th>
