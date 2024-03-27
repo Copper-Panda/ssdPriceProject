@@ -1,0 +1,14 @@
+[
+    {
+        "pricePerTB": "100",
+        "pricePerGB": "0.10",
+        "price": "200",
+        "capacity": "2TB",
+        "technology": "SSD",
+        "formFactor": "2.5-inch",
+        "affiliateLink": {
+            "url": "http://example.com/product1",
+            "text": "Buy Now"
+        }
+    }
+]

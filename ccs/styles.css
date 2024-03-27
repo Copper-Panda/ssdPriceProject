@@ -1,0 +1,39 @@
+#container {
+    display: flex;
+}
+
+#filter-section {
+    width: auto;
+    flex-shrink: 0;
+    padding: 5px;
+    background-color: aliceblue;
+}
+
+#table-section {
+    flex: 3;
+    padding: 5px;
+}
+
+table {
+    font-size: small;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table thead tr {
+    background-color: darkgray;
+    line-height: 1;
+}
+
+table thead tr, table tbody tr { 
+    line-height: 0.8; /* 减少行间距 */
+} 
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}

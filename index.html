@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>产品表格示例</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div id="container">
+        <div id="filter-section">
+            <!-- 筛选器的HTML -->
+            <label for="capacity-unit">容量单位:</label>
+            <select id="capacity-unit" onchange="updateTable()">
+                <option value="TB">TB</option>
+                <option value="GB">GB</option>
+            </select>
+        </div>
+        <div id="table-section">
+            <!-- 表格的HTML -->
+            <table id="data-table">
+                <thead>
+                    <tr>
+                        <th>Price per Unit</th>
+                        <th>Price</th>
+                        <th>Capacity</th>
+                        <th>Technology</th>
+                        <th>Form Factor</th>
+                        <th>Affiliate Link</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- 通过JavaScript动态填充的数据行 -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+</body>
+</html>

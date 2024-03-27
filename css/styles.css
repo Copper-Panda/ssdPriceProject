@@ -1,0 +1,36 @@
+#container {
+    display: flex;
+}
+#filter-section {
+    width: 10%;
+    padding: 20px;
+    background-color: #f4f4f4;
+    /* 更多的样式 */
+}
+#table-section {
+    width: 90%;
+    padding: 10px;
+    font-size: 8px;
+    /* 更多的样式 */
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    /* 更多的表格样式 */
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    text-align: left;
+    font-size: small;
+}
+th:nth-child(6), td:nth-child(6) {
+    width: 55%;
+}
+.affiliate-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: small;
+}
+/* 更多的样式 */

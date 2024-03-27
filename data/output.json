@@ -1,0 +1,4490 @@
+[
+    {
+        "pricePerTB": "105.98",
+        "pricePerGB": "0.10598",
+        "price": "52.99",
+        "capacity": 0.5,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08QBMD6P4",
+            "text": "SAMSUNG 870 EVO SATA SSD 500GB 2.5\u201d Internal Solid State Drive, Upgrade PC or Laptop Memory and Storage for IT Pros, Creators, Everyday Users, MZ-77E500B/AM, Black"
+        }
+    },
+    {
+        "pricePerTB": "84.995",
+        "pricePerGB": "0.084995",
+        "price": "169.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09VLHR4JC",
+            "text": "SAMSUNG T7 Shield 2TB, Portable SSD, up-to 1050MB/s, USB 3.2 Gen2, Rugged,IP65 Water & Dust Resistant, for Photographers, Content Creators and Gaming, Extenal Solid State Drive (MU-PE2T0S/AM), Black"
+        }
+    },
+    {
+        "pricePerTB": "82.495",
+        "pricePerGB": "0.082495",
+        "price": "164.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0874XWW23",
+            "text": "SAMSUNG SSD T7 Portable External Solid State Drive 2TB, USB 3.2 Gen 2, Reliable Storage for Gaming, Students, Professionals, MU-PC2T0T/AM, Gray"
+        }
+    },
+    {
+        "pricePerTB": "89.995",
+        "pricePerGB": "0.089995",
+        "price": "179.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BHJJ9Y77",
+            "text": "SAMSUNG 990 PRO Series - 2TB PCIe Gen4. X4 NVMe 2.0c - M.2 Internal SSD (MZ-V9P2T0B/AM)"
+        }
+    },
+    {
+        "pricePerTB": "101.36",
+        "pricePerGB": "0.10136",
+        "price": "101.36",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08GLX7TNT",
+            "text": "SAMSUNG 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4 Gaming M.2 Internal Solid State Drive Memory Card , Maximum Speed, Thermal Control MZ-V8P1T0B/AM"
+        }
+    },
+    {
+        "pricePerTB": "119.99",
+        "pricePerGB": "0.11999",
+        "price": "119.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CHFSWM2P",
+            "text": "SAMSUNG T9 Portable SSD 1TB, USB 3.2 Gen 2x2 External Solid State Drive, Seq. Read Speeds Up to 2,000MB/s for Gaming, Students and Professionals, MU-PG1T0B/AM, Black"
+        }
+    },
+    {
+        "pricePerTB": "63.75",
+        "pricePerGB": "0.06375",
+        "price": "255.0",
+        "capacity": 4.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B089C5P5SX",
+            "text": "SAMSUNG 870 QVO SATA III SSD 4TB 2.5\" Internal Solid State Drive, Upgrade Desktop PC or Laptop Memory and Storage for IT Pros, Creators, Everyday Users, MZ-77Q4T0B"
+        }
+    },
+    {
+        "pricePerTB": "99.995",
+        "pricePerGB": "0.099995",
+        "price": "199.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08T25MBF3",
+            "text": "Samsung 870 EVO 2TB, V-NAND, 2.5\" . 7mm, SATA III 6GB/s, R/W(Max) 560MB/s/530MB/s, 98K/88K IOPS, 1,200TBW, 5 Years"
+        }
+    },
+    {
+        "pricePerTB": "133.98",
+        "pricePerGB": "0.13398",
+        "price": "66.99",
+        "capacity": 0.5,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08PC43D78",
+            "text": "SAMSUNG SSD 870 EVO, 500 GB, Form Factor 2.5\u201d, Intelligent Turbo Write, Magician 6 Software, Black"
+        }
+    },
+    {
+        "pricePerTB": "80.845",
+        "pricePerGB": "0.080845",
+        "price": "161.69",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B082YGVGQL",
+            "text": "SAMSUNG T7 Touch Portable SSD 2TB ,up to 1050MB/s, USB 3.2 External Solid State Drive, Black (MU-PC2T0K/WW)"
+        }
+    },
+    {
+        "pricePerTB": "89.9",
+        "pricePerGB": "0.0899",
+        "price": "89.9",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08V83JZH4",
+            "text": "SAMSUNG 980 SSD 1TB PCle 3.0x4, NVMe M.2 2280, Internal Solid State Drive, Storage for PC, Laptops, Gaming and More, HMB Technology, Intelligent Turbowrite, Speeds of up-to 3,500MB/s, MZ-V8V1T0B/AM"
+        }
+    },
+    {
+        "pricePerTB": "107.99",
+        "pricePerGB": "0.10799",
+        "price": "107.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08PBFP4NV",
+            "text": "Samsung 980 PRO 1TB PCIe 4.0 NVME M.2 SSD (MZ-V8P1T0BW)"
+        }
+    },
+    {
+        "pricePerTB": "127.5",
+        "pricePerGB": "0.1275",
+        "price": "127.5",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B087DFLF9S",
+            "text": "Samsung T7 Portable SSD - 1 TB - USB 3.2 Gen.2 Externe SSD Titan Gray (MU-PC1T0T/WW)"
+        }
+    },
+    {
+        "pricePerTB": "89.5",
+        "pricePerGB": "0.0895",
+        "price": "179.0",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B087DFFJRD",
+            "text": "Samsung T7 Portable SSD - 2 TB - USB 3.2 Gen.2 Externe SSD Titan Gray (MU-PC2T0T/WW)"
+        }
+    },
+    {
+        "pricePerTB": "122.4475",
+        "pricePerGB": "0.1224475",
+        "price": "489.79",
+        "capacity": 4.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B078WRVNTW",
+            "text": "SAMSUNG 4TB 860 EVO 2.5-inch Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "129.95",
+        "pricePerGB": "0.12995",
+        "price": "129.95",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B9C3ZVHR",
+            "text": "SAMSUNG 990 Pro 1TB Gen4 NVMe SSD 7450MB/s 6900MB/s R/W 1550K/1200K IOPS 600TBW 1.5M Hrs MTBF for PS5 5yrs"
+        }
+    },
+    {
+        "pricePerTB": "79.995",
+        "pricePerGB": "0.079995",
+        "price": "159.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08HN37XC1",
+            "text": "SanDisk 2TB Extreme Portable SSD - Up to 1050MB/s, USB-C, USB 3.2 Gen 2, IP65 Water and Dust Resistance, Updated Firmware - External Solid State Drive - SDSSDE61-2T00-G25"
+        }
+    },
+    {
+        "pricePerTB": "123.91",
+        "pricePerGB": "0.12391",
+        "price": "123.91",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07L3D19MY",
+            "text": "SAMSUNG 860 QVO 1TB Solid State Drive (MZ-76Q1T0B/AM) V-NAND, SATA 6Gb/s, Quality and Value Optimized SSD"
+        }
+    },
+    {
+        "pricePerTB": "59.995",
+        "pricePerGB": "0.059995",
+        "price": "119.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C5JNWF58",
+            "text": "SanDisk 2TB Portable SSD - Up to 800MB/s, USB-C, USB 3.2 Gen 2, Updated Firmware - External Solid State Drive - SDSSDE30-2T00-G26"
+        }
+    },
+    {
+        "pricePerTB": "105.49",
+        "pricePerGB": "0.10549",
+        "price": "105.49",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09J159SWL",
+            "text": "Samsung 980 PRO SSD with Heatsink 1TB PCIe Gen 4 NVMe M.2 Internal Solid State Hard Drive, Heat Control, Max Speed, PS5 Compatible, MZ-V8P1T0CW"
+        }
+    },
+    {
+        "pricePerTB": "118.25",
+        "pricePerGB": "0.11825",
+        "price": "118.25",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08TJ2649W",
+            "text": "Samsung 980 1 TB PCIe 3.0 (up to 3.500 MB/s) NVMe M.2 Internal Solid State Drive (SSD) (MZ-V8V1T0BW)"
+        }
+    },
+    {
+        "pricePerTB": "78.495",
+        "pricePerGB": "0.078495",
+        "price": "156.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B7CMZ3QH",
+            "text": "WD_BLACK 2TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS200T2X0E"
+        }
+    },
+    {
+        "pricePerTB": "79.99",
+        "pricePerGB": "0.07999",
+        "price": "79.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B078211KBB",
+            "text": "Crucial MX500 1TB 3D NAND SATA 2.5 Inch Internal SSD, up to 560MB/s - CT1000MX500SSD1"
+        }
+    },
+    {
+        "pricePerTB": "69.99",
+        "pricePerGB": "0.06999",
+        "price": "69.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09NQJMW28",
+            "text": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 535 MB/s - SDSSDA-1T00-G27"
+        }
+    },
+    {
+        "pricePerTB": "62.215",
+        "pricePerGB": "0.062215",
+        "price": "124.43",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C91X5DZL",
+            "text": "Lexar 2TB NM790 SSD PCIe Gen4 NVMe M.2 2280 Internal Solid State Drive, Up to 7400/6500 MB/s Read/Write, Compatible with PS5, for Gamers and Creators, Black (LNM790X002T-RNNNU)"
+        }
+    },
+    {
+        "pricePerTB": "52.4975",
+        "pricePerGB": "0.0524975",
+        "price": "209.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08Z7LN8NM",
+            "text": "TEAMGROUP MP34 4TB with DRAM SLC Cache 3D NAND TLC NVMe 1.3 PCIe Gen3x4 M.2 2280 Internal SSD (Read/Write Speed up to 3,500/2,900 MB/s) Compatible with Laptop & PC Desktop TM8FP4004T0C101"
+        }
+    },
+    {
+        "pricePerTB": "57.4975",
+        "pricePerGB": "0.0574975",
+        "price": "229.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BYN8NHXS",
+            "text": "Silicon Power 4TB UD90 NVMe 4.0 Gen4 PCIe M.2 SSD R/W up to 5,000/4,500 MB/s (SP04KGBP44UD9005)"
+        }
+    },
+    {
+        "pricePerTB": "65.3653846153846",
+        "pricePerGB": "0.06638671875",
+        "price": "33.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07997QV4Z",
+            "text": "SP 512GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5\" 7mm (0.28\") Internal Solid State Drive (SP512GBSS3A55S25)"
+        }
+    },
+    {
+        "pricePerTB": "63.4423076923077",
+        "pricePerGB": "0.06443359375",
+        "price": "32.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08CK7T9FG",
+            "text": "TEAMGROUP AX2 512GB 3D NAND TLC 2.5 Inch SATA III Internal Solid State Drive SSD (Read Speed up to 540 MB/s) Compatible with Laptop & PC Desktop T253A3512G0C101"
+        }
+    },
+    {
+        "pricePerTB": "61.5192307692308",
+        "pricePerGB": "0.06248046875",
+        "price": "31.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B6ZC5MS3",
+            "text": "TEAMGROUP T-Force Vulcan Z 512GB SLC Cache 3D NAND TLC 2.5 Inch SATA III Internal Solid State Drive SSD (R/W Speed up to 530/470 MB/s) T253TZ512G0C101"
+        }
+    },
+    {
+        "pricePerTB": "69.99",
+        "pricePerGB": "0.06999",
+        "price": "69.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08DDJZP3N",
+            "text": "HP P500 Portable SSD 1TB - USB 3.2 Gen 1 Type C, USB- External Solid State Hard Drive - Up to 420MB/s, Black - 1F5P4AA#ABC"
+        }
+    },
+    {
+        "pricePerTB": "105.98",
+        "pricePerGB": "0.10598",
+        "price": "52.99",
+        "capacity": 0.5,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09ZYPTXS4",
+            "text": "Western Digital 500GB WD Blue SA510 SATA Internal Solid State Drive SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS500G3B0A"
+        }
+    },
+    {
+        "pricePerTB": "74.9975",
+        "pricePerGB": "0.0749975",
+        "price": "299.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B7CQ2CHH",
+            "text": "WD_BLACK 4TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS400T2X0E"
+        }
+    },
+    {
+        "pricePerTB": "69.995",
+        "pricePerGB": "0.069995",
+        "price": "139.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09QV5KJHV",
+            "text": "Western Digital WD_BLACK 2TB SN770 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 5,150 MB/s - WDS200T3X0E"
+        }
+    },
+    {
+        "pricePerTB": "84.9975",
+        "pricePerGB": "0.0849975",
+        "price": "339.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C48HN4Z9",
+            "text": "Western Digital 4TB SN850P NVMe M.2 SSD Officially Licensed Storage Expansion for PS5 Consoles, up to 7,300MB/s, with heatsink - WDBBYV0040BNC-WRSN"
+        }
+    },
+    {
+        "pricePerTB": "82.4975",
+        "pricePerGB": "0.0824975",
+        "price": "329.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09H1M6ZRT",
+            "text": "Western Digital 4TB WD Red SN700 NVMe Internal Solid State Drive SSD for NAS Devices - Gen3 PCIe, M.2 2280, Up to 3,400 MB/s - WDS400T1R0C"
+        }
+    },
+    {
+        "pricePerTB": "68.99",
+        "pricePerGB": "0.06899",
+        "price": "68.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09JQMGHDW",
+            "text": "Western Digital 1TB WD Green Internal SSD Solid State Drive - SATA III 6 Gb/s, 2.5/7mm, Up to 545 MB/s - WDS100T3G0A"
+        }
+    },
+    {
+        "pricePerTB": "119.98",
+        "pricePerGB": "0.11998",
+        "price": "59.99",
+        "capacity": 0.5,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07YFGQLYK",
+            "text": "Western Digital 500GB WD Red SA500 NAS 3D NAND Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS500G1R0A"
+        }
+    },
+    {
+        "pricePerTB": "62.99",
+        "pricePerGB": "0.06299",
+        "price": "62.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09DVQQL9G",
+            "text": "Western Digital 1TB WD Green SN350 NVMe Internal SSD Solid State Drive - Gen3 PCIe, QLC, M.2 2280, Up to 3,200 MB/s - WDS100T3G0C"
+        }
+    },
+    {
+        "pricePerTB": "64.995",
+        "pricePerGB": "0.064995",
+        "price": "129.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C8WPRM9T",
+            "text": "Western Digital 2TB WD Blue SN580 NVMe Internal Solid State Drive SSD - Gen4 x4 PCIe 16Gb/s, M.2 2280, Up to 4,150 MB/s - WDS200T3B0E"
+        }
+    },
+    {
+        "pricePerTB": "74.995",
+        "pricePerGB": "0.074995",
+        "price": "149.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08F1VVBL9",
+            "text": "Western Digital 2TB My Passport SSD Portable External Solid State Drive, Gray, Sturdy and Blazing Fast, Password Protection with Hardware Encryption - WDBAGF0020BGY-WESN"
+        }
+    },
+    {
+        "pricePerTB": "64.995",
+        "pricePerGB": "0.064995",
+        "price": "129.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B097TSN41S",
+            "text": "Western Digital 2TB Elements SE - Portable SSD, USB 3.0, Compatible with PC, Mac - WDBAYN0020BBK-WESN"
+        }
+    },
+    {
+        "pricePerTB": "107.98",
+        "pricePerGB": "0.10798",
+        "price": "53.99",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07MC2Q81D",
+            "text": "Western Digital 500GB SN750 NVMe Internal Gaming SSD Solid State Drive with Heatsink - Gen3 PCIe, M.2 2280, 3D NAND, Up to 3,430 MB/s - WDS500G3XHC"
+        }
+    },
+    {
+        "pricePerTB": "82.5",
+        "pricePerGB": "0.0825",
+        "price": "165.0",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B073SBRHH6",
+            "text": "Western Digital 2TB WD Blue 3D NAND Internal PC SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS200T2B0A, Solid State Hard Drive"
+        }
+    },
+    {
+        "pricePerTB": "60.99",
+        "pricePerGB": "0.06099",
+        "price": "60.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BBWH1R8H",
+            "text": "Kingston NV2 1TB M.2 2280 NVMe Internal SSD | PCIe 4.0 Gen 4x4 | Up to 3500 MB/s | SNV2S/1000G"
+        }
+    },
+    {
+        "pricePerTB": "135.0",
+        "pricePerGB": "0.135",
+        "price": "135.0",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B073SBQMCX",
+            "text": "Western Digital 1TB WD Blue 3D NAND Internal PC SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS100T2B0A"
+        }
+    },
+    {
+        "pricePerTB": "69.2115384615385",
+        "pricePerGB": "0.07029296875",
+        "price": "35.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CM63ZP2Y",
+            "text": "512GB SATA SSD 2.5'' SSD SATA III 6 Gb/s Internal Solid State Drive Up to 560 MB/s 3D NAND SLC Cache for Laptop and PC Desktop Performance Boost 7mm(0.28\u2033) S101Q"
+        }
+    },
+    {
+        "pricePerTB": "94.98",
+        "pricePerGB": "0.09498",
+        "price": "94.98",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0792LL46V",
+            "text": "WD Blue 1TB 3D NAND SATA III 2.5\" Internal SSD"
+        }
+    },
+    {
+        "pricePerTB": "99.99",
+        "pricePerGB": "0.09999",
+        "price": "99.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08MRCJHSK",
+            "text": "WD 1TB My Passport SSD Portable External Solid State Drive, Silver, Sturdy and Blazing Fast, Password Protection with Hardware Encryption - WDBAGF0010BSL-WESN"
+        }
+    },
+    {
+        "pricePerTB": "83.3125",
+        "pricePerGB": "0.0833125",
+        "price": "39.99",
+        "capacity": 0.48,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07G3KGYZQ",
+            "text": "Crucial BX500 480GB 3D NAND SATA 2.5-Inch Internal SSD, up to 540MB/s - CT480BX500SSD1"
+        }
+    },
+    {
+        "pricePerTB": "139.98",
+        "pricePerGB": "0.13998",
+        "price": "69.99",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B095H8XDXP",
+            "text": "WD_BLACK 500GB SN750 SE NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 3,600 MB/s - WDS500G1B0E"
+        }
+    },
+    {
+        "pricePerTB": "74.45",
+        "pricePerGB": "0.07445",
+        "price": "297.8",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CGKY9K2Y",
+            "text": "Lexar 4TB NM790 SSD with Heatsink PCIe Gen4 NVMe M.2 2280 Internal Solid State Drive, Up to 7400/6500 MB/s Read/Write, Compatible with PS5, for Gamers and Creators, Black (LNM790X004T-RN9NU)"
+        }
+    },
+    {
+        "pricePerTB": "72.495",
+        "pricePerGB": "0.072495",
+        "price": "144.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BNQ2X2WY",
+            "text": "S770 2TB NVMe M.2 SSD for PS5 - with Heatsink and DRAM, Up to 7300MB/s, PCIe 4.0, Suitable for Playstation 5 Memory Expansion, Game Enthusiasts, IT Professionals"
+        }
+    },
+    {
+        "pricePerTB": "139.98",
+        "pricePerGB": "0.13998",
+        "price": "69.99",
+        "capacity": 0.5,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07HYZY9FX",
+            "text": "WD 500GB My Passport Go Cobalt SSD Portable External Storage - WDBY9Y5000ABT-WESN (Old model)"
+        }
+    },
+    {
+        "pricePerTB": "57.97",
+        "pricePerGB": "0.05797",
+        "price": "57.97",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07PHJCCY3",
+            "text": "Silicon Power 1TB A55 M.2 SSD SATA III Internal Solid State Drive 2280 SU001TBSS3A55M28AB"
+        }
+    },
+    {
+        "pricePerTB": "67.2884615384615",
+        "pricePerGB": "0.06833984375",
+        "price": "34.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C3CQ5GY4",
+            "text": "RAOYI 512GB Internal SSD SATA III 2.5\u201dInternal Solid State Drive 3D NAND Flash Advanced SSD Internal Hard Drive Up to 500MB/s SATA 3 SSD Upgrade Performance for PC Laptop"
+        }
+    },
+    {
+        "pricePerTB": "64.995",
+        "pricePerGB": "0.064995",
+        "price": "129.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C36XZJBF",
+            "text": "S880 2TB NVMe SSD M.2 2280 PCIe 4.0 Gaming SSD - Up to 7300MB/s, Fast Heat Dissipation, Internal Solid State Drives, Suitable for PS5 Enthusiasts, IT Professionals"
+        }
+    },
+    {
+        "pricePerTB": "166.625",
+        "pricePerGB": "0.166625",
+        "price": "39.99",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B078WYS5K6",
+            "text": "Western Digital SSD WDS240G2G0B 240GB M.2 2280 SATA 6GB S WD Green Retail"
+        }
+    },
+    {
+        "pricePerTB": "77.475",
+        "pricePerGB": "0.077475",
+        "price": "154.95",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BHQ91SGM",
+            "text": "2TB M.2 2230 NVMe PCIe SSD Gen 4.0x4 Single-Sided Drive, 5100MB/s Read, 4800 MB/s Write SN740 Replacement (Upgrade for Steam Deck, Surface Pro 7, Surface Laptop 4)"
+        }
+    },
+    {
+        "pricePerTB": "104.125",
+        "pricePerGB": "0.104125",
+        "price": "24.99",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B076XXMJZH",
+            "text": "INLAND Professional 240GB SSD 3D NAND SATA III 6Gb/s 2.5\" 7mm Internal Solid State Drive (240G)"
+        }
+    },
+    {
+        "pricePerTB": "104.9975",
+        "pricePerGB": "0.1049975",
+        "price": "419.99",
+        "capacity": 4.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BW6715SV",
+            "text": "SanDisk Professional 4TB PRO-G40 SSD - Up to 3000MB/s, Thunderbolt 3 (40Gbps), USB-C (10Gbps), IP68 dust/Water Resistance, External Solid State Drive - SDPS31H-004T-GBCND"
+        }
+    },
+    {
+        "pricePerTB": "91.96",
+        "pricePerGB": "0.09196",
+        "price": "22.99",
+        "capacity": 0.25,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BJPX7ZZT",
+            "text": "ES106 250GB SSD SATA III 2.5\" 3D TLC NAND Flash Internal Hard Drive, Up to 550MB/s Read, Upgrade PC or Laptop Memory and Storage(Black)"
+        }
+    },
+    {
+        "pricePerTB": "77.09",
+        "pricePerGB": "0.07709",
+        "price": "77.09",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B088TK2P15",
+            "text": "Gigastone Enterprise 1TB NAS SSD 24/7 High Endurance Business Server Personal Cloud Data Center NVR RAID Rugged 2.5\" SATA III Internal Solid State Drive 3D NAND SLC Cache Memory Expansion"
+        }
+    },
+    {
+        "pricePerTB": "49.9975",
+        "pricePerGB": "0.0499975",
+        "price": "199.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9LWC5VV",
+            "text": "LEVEN JPS850 4TB PCIe Gen4 Speed up to 6,600MB/s 3D NAND NVMe M.2 SSD, Perfectly Compatible with NAS Devices Approved for Asustor AS54/ FS67 High Endurance with Thermal Pad and Heat Sink"
+        }
+    },
+    {
+        "pricePerTB": "56.99",
+        "pricePerGB": "0.05699",
+        "price": "56.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08GJCS69D",
+            "text": "Timetec 1TB SSD 3D NAND SATA III 6Gb/s 2.5 Inch 7mm (0.28\") Read Speed Up to 550 MB/s SLC Cache Performance Boost Internal Solid State Drive for PC Computer Desktop and Laptop (1TB)"
+        }
+    },
+    {
+        "pricePerTB": "147.495",
+        "pricePerGB": "0.147495",
+        "price": "294.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C3K2WRPV",
+            "text": "Crucial T700 2TB Gen5 NVMe M.2 SSD with Heatsink - Up to 12,400 MB/s - DirectStorage Enabled - CT2000T700SSD5 - Gaming, Photography, Video Editing & Design - Internal Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "391.666666666667",
+        "pricePerGB": "0.391666666666667",
+        "price": "47.0",
+        "capacity": 0.12,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B078WYRR9S",
+            "text": "Western Digital WDS120G2G0B WD Green 120 GB Internal Solid State Drive - SATA - M.2 2280, 120GB"
+        }
+    },
+    {
+        "pricePerTB": "99.78",
+        "pricePerGB": "0.09978",
+        "price": "49.89",
+        "capacity": 0.5,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08W1F8YGJ",
+            "text": "Crucial X6 500GB Portable SSD - Up to 800MB/s - PC and Mac - USB 3.2 USB-C External Solid State Drive - CT500X6SSD9"
+        }
+    },
+    {
+        "pricePerTB": "96.1153846153846",
+        "pricePerGB": "0.0976171875",
+        "price": "24.99",
+        "capacity": 0.26,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B088KLWM35",
+            "text": "INLAND Professional 256GB SSD 3D TLC NAND SATA III 6Gb/s 2.5\" 7mm Internal Solid State Drive (256GB)"
+        }
+    },
+    {
+        "pricePerTB": "374.975",
+        "pricePerGB": "0.374975",
+        "price": "149.99",
+        "capacity": 0.4,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09QMSS528",
+            "text": "Synology M.2 2280 NVMe SSD SNV3410 400GB (SNV3410-400G)"
+        }
+    },
+    {
+        "pricePerTB": "64.99",
+        "pricePerGB": "64.99",
+        "price": "64.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B9Y3DB2K",
+            "text": "TEAMGROUP MP44L 1TB SLC Cache NVMe 1.4 PCIe Gen 4x4 M.2 2280 Laptop&Desktop SSD (R/W Speed up to 5,000/4,500MB/s) TM8FPK001T0C101"
+        }
+    },
+    {
+        "pricePerTB": "99.99",
+        "pricePerGB": "99.99",
+        "price": "99.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08F27J5SQ",
+            "text": "WD 1TB My Passport SSD Portable External Solid State Drive, Red, Sturdy and Blazing Fast, Password Protection with Hardware Encryption - WDBAGF0010BRD-WESN"
+        }
+    },
+    {
+        "pricePerTB": "288.442307692308",
+        "pricePerGB": "0.29294921875",
+        "price": "149.99",
+        "capacity": 0.52,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B06XNPPRD9",
+            "text": "WD 512GB My Passport SSD Portable Storage - USB 3.1 - Black-Gray - WDBK3E5120PSL-WESN"
+        }
+    },
+    {
+        "pricePerTB": "76.2475",
+        "pricePerGB": "0.0762475",
+        "price": "304.99",
+        "capacity": 4.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BVQMH381",
+            "text": "Gigastone Enterprise 4TB NAS SSD 24/7 High Endurance Business Server Personal Cloud Data Center NVR RAID Rugged 2.5\" SATA III Internal Solid State Drive 3D NAND SLC Cache Memory Expansion"
+        }
+    },
+    {
+        "pricePerTB": "119.230769230769",
+        "pricePerGB": "0.12109375",
+        "price": "31.0",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BTY4L9BC",
+            "text": "Dogfish M.2 2230 SSD 256GB NVMe PCIe Gen 3.0x4 Internal Solid State Drive Compatible with Steam Deck/Microsoft Surface/Laptop/Desktop(M.2 2230 PCIe 3.0,256GB)"
+        }
+    },
+    {
+        "pricePerTB": "119.96",
+        "pricePerGB": "0.11996",
+        "price": "29.99",
+        "capacity": 0.25,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0781VSXBP",
+            "text": "Crucial MX500 250GB 3D NAND SATA 2.5 Inch Internal SSD, up to 560MB/s - CT250MX500SSD1"
+        }
+    },
+    {
+        "pricePerTB": "74.99",
+        "pricePerGB": "74.99",
+        "price": "74.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07YD579WM",
+            "text": "Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD, up to 540MB/s - CT1000BX500SSD1, Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "59.4975",
+        "pricePerGB": "59.4975",
+        "price": "237.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B25M8FXX",
+            "text": "Crucial P3 Plus 4TB PCIe Gen4 3D NAND NVMe M.2 SSD, up to 5000MB/s - CT4000P3PSSD8"
+        }
+    },
+    {
+        "pricePerTB": "57.495",
+        "pricePerGB": "57.495",
+        "price": "114.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08FSNKNSV",
+            "text": "Crucial X6 2TB Portable SSD - Up to 800MB/s - PC and Mac - USB 3.2 USB-C External Solid State Drive - CT2000X6SSD9, Black"
+        }
+    },
+    {
+        "pricePerTB": "74.9975",
+        "pricePerGB": "74.9975",
+        "price": "299.99",
+        "capacity": 4.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9WJQ9GP",
+            "text": "Crucial X10 Pro 4TB Portable SSD - Up to 2100MB/s Read, 2000MB/s Write - Water and dust Resistant, PC and Mac, with Mylio Photos+ Offer - USB 3.2 External Solid State Drive - CT4000X10PROSSD902"
+        }
+    },
+    {
+        "pricePerTB": "80.99",
+        "pricePerGB": "80.99",
+        "price": "80.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CK39YR9V",
+            "text": "Crucial T500 1TB Gen4 NVMe M.2 Internal Gaming SSD, Up to 7300MB/s, Laptop & Desktop Compatible + 1mo Adobe CC All Apps - CT1000T500SSD8"
+        }
+    },
+    {
+        "pricePerTB": "79.995",
+        "pricePerGB": "79.995",
+        "price": "159.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9WHSZZN",
+            "text": "Crucial X9 Pro 2TB Portable SSD - Up to 1050MB/s Read and Write - Water and dust Resistant, PC and Mac, with Mylio Photos+ Offer - USB 3.2 External Solid State Drive - CT2000X9PROSSD902"
+        }
+    },
+    {
+        "pricePerTB": "101.96",
+        "pricePerGB": "0.10196",
+        "price": "50.98",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B25LQQPC",
+            "text": "Crucial P3 500GB PCIe Gen3 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT500P3SSD8"
+        }
+    },
+    {
+        "pricePerTB": "174.99",
+        "pricePerGB": "174.99",
+        "price": "174.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C3K344ZV",
+            "text": "Crucial T700 1TB Gen5 NVMe M.2 SSD with Heatsink - Up to 11,700 MB/s - DirectStorage Enabled - CT1000T700SSD5 - Gaming, Photography, Video Editing & Design - Internal Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "122.0",
+        "pricePerGB": "0.122",
+        "price": "61.0",
+        "capacity": 0.5,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B9BL9T4H",
+            "text": "Crucial CT500BX500SSD1 Internal Solid State Drive 2.5\" 500 GB Serial ATA III 3D NAND"
+        }
+    },
+    {
+        "pricePerTB": "129.0",
+        "pricePerGB": "129.0",
+        "price": "129.0",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B087QRVVVH",
+            "text": "Crucial P5 1TB 3D NAND NVMe Internal Gaming SSD, up to 3400MB/s - CT1000P5SSD8"
+        }
+    },
+    {
+        "pricePerTB": "84.9975",
+        "pricePerGB": "84.9975",
+        "price": "339.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CHGT1KFJ",
+            "text": "SAMSUNG 990 PRO SSD 4TB PCIe 4.0 M.2 2280 Internal Solid State Hard Drive, Seq. Read Speeds Up to 7,450 MB/s for High End Computing, Gaming, and Heavy Duty Workstations, MZ-V9P4T0B/AM, Black"
+        }
+    },
+    {
+        "pricePerTB": "149.95",
+        "pricePerGB": "149.95",
+        "price": "149.95",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B01IAGSDUE",
+            "text": "Crucial MX300 1TB 3D NAND SATA 2.5 Inch Internal SSD - CT1050MX300SSD1"
+        }
+    },
+    {
+        "pricePerTB": "64.5",
+        "pricePerGB": "0.0645",
+        "price": "129.0",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C14TF467",
+            "text": "Western Digital 2TB WD Blue SA510 SATA Internal Solid State Drive SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS200T3B0A"
+        }
+    },
+    {
+        "pricePerTB": "62.495",
+        "pricePerGB": "0.062495",
+        "price": "124.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09F5W62N8",
+            "text": "acer Predator GM7000 2TB NVMe Gen4 Gaming SSD, M.2 2280, Compatible with PS5, PCIe 4.0 Internal PC Solid State Hard Drive Up to 7400MB/s - BL.9BWWR.106"
+        }
+    },
+    {
+        "pricePerTB": "57.99",
+        "pricePerGB": "57.99",
+        "price": "57.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07B4G19X3",
+            "text": "SP 1TB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5\" 7mm (0.28\") Internal Solid State Drive (SP001TBSS3A55S25)"
+        }
+    },
+    {
+        "pricePerTB": "97.0776699029126",
+        "pricePerGB": "0.097646484375",
+        "price": "99.99",
+        "capacity": 1.03,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09QX6SL2Y",
+            "text": "SK hynix Platinum P41 1TB PCIe NVMe Gen4 M.2 2280 Internal Gaming SSD, Up to 7,000MB/S, Compact M.2 Form Factor - Internal Solid State Drive with 176-Layer NAND Flash"
+        }
+    },
+    {
+        "pricePerTB": "51.995",
+        "pricePerGB": "51.995",
+        "price": "103.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BWXK95PY",
+            "text": "SSD 2TB Internal Solid State Drive SATA III 6Gb/s 2.5\", 3D NAND, SLC Cache, Up to 550MB/s, Compatible with Laptops and PC Desktops(S101)"
+        }
+    },
+    {
+        "pricePerTB": "82.6730769230769",
+        "pricePerGB": "0.08396484375",
+        "price": "42.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08CM1VKZT",
+            "text": "HP S750 512GB SATA III 2.5 Inch PC SSD, 6 Gb/s, 3D NAND Internal Solid State Hard Drive Up to 560 MB/s - 16L53AA#ABA"
+        }
+    },
+    {
+        "pricePerTB": "113.98",
+        "pricePerGB": "0.11398",
+        "price": "56.99",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C8WP6B8R",
+            "text": "Western Digital 500GB WD Blue SN580 NVMe Internal Solid State Drive SSD - Gen4 x4 PCIe 16Gb/s, M.2 2280, Up to 4,000 MB/s - WDS500G3B0E"
+        }
+    },
+    {
+        "pricePerTB": "119.0",
+        "pricePerGB": "0.119",
+        "price": "119.0",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CGFD2GVZ",
+            "text": "Seagate Game Drive PS5 NVMe SSD for PS5 1TB Internal Solid State Drive - PCIe Gen4 NVMe 1.4, Officially Licensed, Up to 7300MB/s with Heatsink (ZP1000GP3A1011)"
+        }
+    },
+    {
+        "pricePerTB": "49.995",
+        "pricePerGB": "49.995",
+        "price": "99.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C3M1YN5T",
+            "text": "TEAMGROUP QX 2TB 3D NAND QLC 2.5 Inch SATA III Internal Solid State Drive SSD (Read/Write Speed up to 560/500 MB/s) 690TBW Compatible with Laptop & PC Desktop T253X7002T0C101"
+        }
+    },
+    {
+        "pricePerTB": "105.98",
+        "pricePerGB": "0.10598",
+        "price": "52.99",
+        "capacity": 0.5,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B7VWFN4B",
+            "text": "SanDisk Ultra 3D NAND 500GB Internal SSD - SATA III 6 Gb/s, 2.5 Inch /7 mm, Up to 560 MB/s - SDSSDH3-500G-G26"
+        }
+    },
+    {
+        "pricePerTB": "95.98",
+        "pricePerGB": "0.09598",
+        "price": "47.99",
+        "capacity": 0.5,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B084ZJVR4B",
+            "text": "HP P500 Portable SSD 500GB - USB 3.2 Gen 1 Type C, USB C External Solid State Hard Drive - Up to 420MB/s, Black - 7NL53AA#ABC"
+        }
+    },
+    {
+        "pricePerTB": "84.49",
+        "pricePerGB": "0.08449",
+        "price": "168.98",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CGKHGMW5",
+            "text": "Lexar 2TB NM790 SSD with Heatsink PCIe Gen4 NVMe M.2 2280 Internal Solid State Drive, Up to 7400/6500 MB/s Read/Write, Compatible with PS5, for Gamers and Creators, Black (LNM790X002T-RN9NU)"
+        }
+    },
+    {
+        "pricePerTB": "116.625",
+        "pricePerGB": "0.116625",
+        "price": "27.99",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08YYTFQLY",
+            "text": "acer SA100 240GB SATA III 2.5 Inch Internal SSD - 6 Gb/s, 3D NAND Solid State Hard Drive Up to 549 MB/s - BL.9BWWA.102"
+        }
+    },
+    {
+        "pricePerTB": "95.98",
+        "pricePerGB": "0.09598",
+        "price": "47.99",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08M25YBY3",
+            "text": "PNY M280CS1030-500-RB M.2 NVMe PCIe Gen3 x4 Internal Solid State Drive (SSD)"
+        }
+    },
+    {
+        "pricePerTB": "89.22",
+        "pricePerGB": "89.22",
+        "price": "178.44",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C27HY1QM",
+            "text": "Addlink New S91 2TB 2230 NVMe High Performance PCIe Gen4x4 2230 3D NAND SSD - Read Speed up to 5000 MB/s Compatible with Steam Deck, ROG Ally, Laptop, Internal Solid State Drive - (ad2TBS91M2P)"
+        }
+    },
+    {
+        "pricePerTB": "115.11",
+        "pricePerGB": "115.11",
+        "price": "115.11",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B089C73T72",
+            "text": "SAMSUNG 870 QVO SATA III SSD 1TB 2.5\" Internal Solid State Drive, Upgrade Desktop PC or Laptop Memory and Storage for IT Pros, Creators, Everyday Users, MZ-77Q1T0B"
+        }
+    },
+    {
+        "pricePerTB": "60.99",
+        "pricePerGB": "60.99",
+        "price": "60.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B2K51BHH",
+            "text": "KingSpec 1TB 2.5\" SATA SSD, SATA III 6Gb/s Internal Solid State Drive - 3D NAND Flash TLC, for Desktop/Laptop/All-in-one(P3,1TB)"
+        }
+    },
+    {
+        "pricePerTB": "81.99",
+        "pricePerGB": "0.08199",
+        "price": "81.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BRSNC77G",
+            "text": "mSATA SSD 1TB SHARKSPEED SATA 3 6Gb/s 3D NAND Mini Internal Solid State Drive for Laptop PC Desktop (mSATA, 1TB)"
+        }
+    },
+    {
+        "pricePerTB": "96.1346153846154",
+        "pricePerGB": "0.09763671875",
+        "price": "49.99",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BPKFS4KZ",
+            "text": "512GB Ultra Speed Portable SSD (PCIe NVMe 4.0, USB-C 3.1 Gen2 Type C, Up to 1050MB/s, Only 2.8 oz, Built w/Kingston, Micron, Crucial) External Hard Drive for iPhone 15, PC, Mac, Xbox, PS4, Camera"
+        }
+    },
+    {
+        "pricePerTB": "84.5769230769231",
+        "pricePerGB": "0.0858984375",
+        "price": "21.99",
+        "capacity": 0.26,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BX62TD7L",
+            "text": "S100 256GB SSD SATA III 2.5\" Internal Solid State Drive SLC Cache 3D NAND TLC, Read Speed up to 550MB/sec, Compatible with Laptop and PC"
+        }
+    },
+    {
+        "pricePerTB": "166.583333333333",
+        "pricePerGB": "0.166583333333333",
+        "price": "19.99",
+        "capacity": 0.12,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B076XMH2JT",
+            "text": "INLAND Professional 120GB SSD 3D NAND SATA III 6Gb/s 2.5\" 7mm Internal Solid State Drive (120GB)"
+        }
+    },
+    {
+        "pricePerTB": "76.9038461538462",
+        "pricePerGB": "0.07810546875",
+        "price": "39.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BF8QT2DX",
+            "text": "MMOMENT SATA III 6Gb/s Internal Solid State Drive SSD (up to 500MB/s) (M.2 2280 SATA, 512GB)"
+        }
+    },
+    {
+        "pricePerTB": "68.7395833333333",
+        "pricePerGB": "0.0687395833333333",
+        "price": "65.99",
+        "capacity": 0.96,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07QFNN3KS",
+            "text": "Kingston - SQ500S37/960G Q500 - Solid State Drive - 960 GB - Internal - 2.5 - SATA 6GB/S"
+        }
+    },
+    {
+        "pricePerTB": "107.99",
+        "pricePerGB": "0.10799",
+        "price": "107.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09K3H2YHX",
+            "text": "Kingston FURY Renegade 1TB PCIe Gen 4.0 NVMe M.2 Internal Gaming SSD | Up to 7300 MB/s | Graphene Heat Spreader | 3D TLC NAND | Works with PS5 | SFYRS/1000G, Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "125.791666666667",
+        "pricePerGB": "0.125791666666667",
+        "price": "30.19",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07KCGPRMQ",
+            "text": "Kingston 240GB Q500 SATA3 2.5 SSD (SQ500S37/240G)"
+        }
+    },
+    {
+        "pricePerTB": "95.8932038834951",
+        "pricePerGB": "0.096455078125",
+        "price": "98.77",
+        "capacity": 1.03,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09K7F5VJQ",
+            "text": "Kingston KC3000 PCIe 4.0 NVMe M.2 1024 GB SSD - High-Performance Storage for Desktop and Laptop PCs -SKC3000S/1024G"
+        }
+    },
+    {
+        "pricePerTB": "69.99",
+        "pricePerGB": "69.99",
+        "price": "69.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B091BDQ2B6",
+            "text": "Kingston NV1 1TB M.2 2280 NVMe PCIe Internal SSD Up to 2100 MB/s SNVS/1000G"
+        }
+    },
+    {
+        "pricePerTB": "249.916666666667",
+        "pricePerGB": "0.249916666666667",
+        "price": "29.99",
+        "capacity": 0.12,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07KCJFBTR",
+            "text": "Kingston 120GB Q500 SATA3 2.5 SSD"
+        }
+    },
+    {
+        "pricePerTB": "143.076923076923",
+        "pricePerGB": "0.1453125",
+        "price": "37.2",
+        "capacity": 0.26,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08ZNSNL1K",
+            "text": "Kingston SSD KC600 256GB mSATA 3D TLC NAND SKC600MS/256G"
+        }
+    },
+    {
+        "pricePerTB": "89.99",
+        "pricePerGB": "0.08999",
+        "price": "89.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07VXC9QMH",
+            "text": "Kingston 1TB A2000 M.2 2280 Nvme Internal SSD PCIe Up to 2000MB/S with Full Security Suite SA2000M8/1000G"
+        }
+    },
+    {
+        "pricePerTB": "93.6990291262136",
+        "pricePerGB": "0.094248046875",
+        "price": "96.51",
+        "capacity": 1.03,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08ZNRTDD8",
+            "text": "Kingston 1024G Ssd Kc600 Sata3 Msata"
+        }
+    },
+    {
+        "pricePerTB": "126.884615384615",
+        "pricePerGB": "0.1288671875",
+        "price": "32.99",
+        "capacity": 0.26,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07ZDBZDR9",
+            "text": "Kingston KC600 256GB 2.5 Inch SATA3 Solid State Drive (3D TLC)"
+        }
+    },
+    {
+        "pricePerTB": "76.495",
+        "pricePerGB": "76.495",
+        "price": "152.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CK2RKPBL",
+            "text": "Crucial T500 2TB Gen4 NVMe M.2 Internal Gaming SSD with Heatsink, Up to 7400MB/s, Playstation 5 Compatible + 1mo Adobe CC All Apps- CT2000T500SSD5"
+        }
+    },
+    {
+        "pricePerTB": "111.5",
+        "pricePerGB": "0.1132421875",
+        "price": "28.99",
+        "capacity": 0.26,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08CLV3Q88",
+            "text": "HP S750 256GB SATA III 2.5 Inch PC SSD, 6 Gb/s, 3D NAND Internal Solid State Hard Drive Up to 560 MB/s - 16L52AA#ABA"
+        }
+    },
+    {
+        "pricePerTB": "84.99",
+        "pricePerGB": "0.08499",
+        "price": "84.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B7CKVCCV",
+            "text": "WD_BLACK 1TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2X0E"
+        }
+    },
+    {
+        "pricePerTB": "77.475",
+        "pricePerGB": "77.475",
+        "price": "154.95",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BF7FGRZ6",
+            "text": "Fantom Drives VENOM8 2TB SSD NVMe Gen 4 M.2 2280 PS5 SSD 2TB for PS5 Storage Expansion, Gaming PC & Laptops - Up to 7400MB/s - 3D NAND TLC \u2013 DDR4 DRAM Cache - 2TB M.2 (VM8X20)"
+        }
+    },
+    {
+        "pricePerTB": "115.346153846154",
+        "pricePerGB": "0.1171484375",
+        "price": "29.99",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09CFZV9CT",
+            "text": "HP EX900 Plus 256GB NVMe PCIe M.2 Interface SSD, GEN 3 x 4, 8 Gb/s, 3D NAND PC Internal Solid State Hard Drive Up to 2000 MB/s - 35M32AA#ABA"
+        }
+    },
+    {
+        "pricePerTB": "81.07",
+        "pricePerGB": "81.07",
+        "price": "162.14",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B071KGS72Q",
+            "text": "SanDisk Ultra 3D NAND 2TB Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - SDSSDH3-2T00-G25"
+        }
+    },
+    {
+        "pricePerTB": "98.82",
+        "pricePerGB": "98.82",
+        "price": "98.82",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9WKGXHD",
+            "text": "Crucial X9 Pro 1TB Portable SSD - Up to 1050MB/s Read and Write - Water and dust Resistant, PC and Mac, with Mylio Photos+ Offer - USB 3.2 External Solid State Drive - CT1000X9PROSSD902"
+        }
+    },
+    {
+        "pricePerTB": "54.995",
+        "pricePerGB": "54.995",
+        "price": "109.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07ZQ97H3W",
+            "text": "Silicon Power 2TB NVMe M.2 PCIe Gen3x4 2280 SSD Solid State Drive (SP002TBP34A60M28)"
+        }
+    },
+    {
+        "pricePerTB": "51.995",
+        "pricePerGB": "51.995",
+        "price": "103.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9CW4D43",
+            "text": "EN206 2TB SSD M.2 SATA 3D NAND TLC, M.2 2280 SATA III 6Gb/s SSD Internal Hard Drive, Read/Write Speed up to 550/480 MB/s, Compatible with Ultrabooks, Tablet Computers and Mini PCs"
+        }
+    },
+    {
+        "pricePerTB": "62.126213592233",
+        "pricePerGB": "0.062490234375",
+        "price": "63.99",
+        "capacity": 1.03,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BW1ZXTMD",
+            "text": "ADATA 1TB SSD Legend 800, NVMe PCIe Gen4 x 4 M.2 2280 Internal Solid State Drive, Speed up to 3,500MB/s, Storage for PC and Laptops, High Endurance with 3D NAND"
+        }
+    },
+    {
+        "pricePerTB": "74.9807692307692",
+        "pricePerGB": "0.07615234375",
+        "price": "38.99",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07XJ2P1LK",
+            "text": "TEAMGROUP MP33 512GB SLC Cache 3D NAND TLC NVMe 1.3 PCIe Gen3x4 M.2 2280 Internal Solid State Drive SSD (Read/Write Speed up to 1,700/1,400 MB/s) Compatible with Laptop & PC Desktop TM8FP6512G0C101"
+        }
+    },
+    {
+        "pricePerTB": "82.6730769230769",
+        "pricePerGB": "0.08396484375",
+        "price": "42.99",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08Z2Z9F85",
+            "text": "acer FA100 512GB SSD - M.2 2280 PCIe Gen3 x 4 NVMe Interface, 8 Gb/s, 3D NAND Internal Solid State Hard Drive Up to 3200 MB/s - BL.9BWWA.119"
+        }
+    },
+    {
+        "pricePerTB": "80.75",
+        "pricePerGB": "0.08201171875",
+        "price": "41.99",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08695D3VW",
+            "text": "KLEVV CRAS C710 512GB M.2 NVMe PCIe Gen3x4 Internal SSD up to 2050MB/s (K512GM2SP0-C71)"
+        }
+    },
+    {
+        "pricePerTB": "59.98",
+        "pricePerGB": "59.98",
+        "price": "59.98",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B7JSMX2H",
+            "text": "S501 1TB NVMe SSD 3D NAND 1.3 PCIe Gen3x4 M.2 2280 Internal Solid State Drive (Read/Write Speed up to 2,150/1,850 MB/s) Compatible with Laptop & PC Desktop"
+        }
+    },
+    {
+        "pricePerTB": "115.346153846154",
+        "pricePerGB": "0.1171484375",
+        "price": "29.99",
+        "capacity": 0.26,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B099F4ZWZW",
+            "text": "MMOMENT SATA III 6Gb/s Internal Solid State Drive SSD (up to 500MB/s) (M.2 2280 SATA, 256GB)"
+        }
+    },
+    {
+        "pricePerTB": "79.98",
+        "pricePerGB": "0.07998",
+        "price": "39.99",
+        "capacity": 0.5,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07XZLN9KM",
+            "text": "PNY CS900 500GB 3D NAND 2.5\" SATA III Internal Solid State Drive (SSD) - (SSD7CS900-500-RB)"
+        }
+    },
+    {
+        "pricePerTB": "79.99",
+        "pricePerGB": "79.99",
+        "price": "79.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08M49JGKB",
+            "text": "PNY CS1030 1TB M.2 NVMe PCIe Gen3 x4 Internal Solid State Drive (SSD) - M280CS1030-1TB-RB"
+        }
+    },
+    {
+        "pricePerTB": "86.495",
+        "pricePerGB": "86.495",
+        "price": "172.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08TKRLY4W",
+            "text": "PNY XLR8 CS3140 2TB M.2 NVMe Gen4 x4 Internal Solid State Drive (SSD) - M280CS3140-2TB-RB\u200b"
+        }
+    },
+    {
+        "pricePerTB": "138.615384615385",
+        "pricePerGB": "0.14078125",
+        "price": "18.02",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07TKGGJ1T",
+            "text": "Lexar 128GB NS100 SSD 2.5\u201d SATA III Internal Solid State Drive, Up To 520MB/s Read, Gray (LNS100-128RBNA)"
+        }
+    },
+    {
+        "pricePerTB": "83.3125",
+        "pricePerGB": "0.0833125",
+        "price": "39.99",
+        "capacity": 0.48,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08YYSYDVQ",
+            "text": "acer SA100 480GB SATA III 2.5 Inch Internal SSD - 6 Gb/s, 3D NAND Solid State Hard Drive Up to 560 MB/s - BL.9BWWA.103"
+        }
+    },
+    {
+        "pricePerTB": "76.99",
+        "pricePerGB": "76.99",
+        "price": "76.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BGL4SHY8",
+            "text": "SSK 1TB Portable External NVME SSD,up to 1050MB/s Extreme Transmission Speed USBC 3.2 Gen2 Solid State Drive for Type-c Smartphone,PS5,Xbox, Laptop,MacBook/Pro/Air and More"
+        }
+    },
+    {
+        "pricePerTB": "72.4423076923077",
+        "pricePerGB": "0.07357421875",
+        "price": "37.67",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07LGJM6BP",
+            "text": "Verbatim 512GB Vi550 2.5\" Internal Solid State Drive SSD SATA III Interface with 3D NAND Technology"
+        }
+    },
+    {
+        "pricePerTB": "107.653846153846",
+        "pricePerGB": "0.1093359375",
+        "price": "27.99",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09RG1L12V",
+            "text": "MMOMENT MT34 256GB PCIe Gen3 NVMe M.2 2280 Internal Solid State Drive, Gen3.0X4, Read Speed up to 2000MB/s, for Laptop and PC Desktop"
+        }
+    },
+    {
+        "pricePerTB": "109.9",
+        "pricePerGB": "0.1099",
+        "price": "54.95",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B25NTRGD",
+            "text": "Crucial P3 Plus 500GB PCIe Gen4 3D NAND NVMe M.2 SSD, up to 5000MB/s - CT500P3PSSD8"
+        }
+    },
+    {
+        "pricePerTB": "88.4230769230769",
+        "pricePerGB": "0.0898046875",
+        "price": "22.99",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B1HJV9VZ",
+            "text": "S501 256GB NVMe SSD 3D NAND1.3 PCIe Gen3x4 M.2 2280 Internal Solid State Drive (Read/Write Speed up to 2,150/1,300 MB/s) Compatible with Laptop & PC Desktop"
+        }
+    },
+    {
+        "pricePerTB": "74.89",
+        "pricePerGB": "74.89",
+        "price": "74.89",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08FSZT2J7",
+            "text": "Crucial X6 1TB Portable SSD - Up to 800MB/s - PC and Mac - USB 3.2 USB-C External Solid State Drive - CT1000X6SSD9"
+        }
+    },
+    {
+        "pricePerTB": "4.7475",
+        "pricePerGB": "0.0047475",
+        "price": "18.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BW8PRDDY",
+            "text": "SSD Enclosure Tool-Free, SETMSPACE M.2 NVME SSD Enclosure USB C 10Gbps, Aluminum NVME Enclosure PCIe M-Key to USB C, External M.2 Enclosure Only for NVME SSDs 2230/2242/2260/2280(Grey)"
+        }
+    },
+    {
+        "pricePerTB": "63.355",
+        "pricePerGB": "63.355",
+        "price": "126.71",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B9855VGS",
+            "text": "Solidigm\u2122 P41 Plus Series 2TB PCIe GEN 4 NVMe 4.0 x4 M.2 2280 3D NAND Internal Solid State Drive (2TB, M.2 80mm, PCIe 4.0 x4)"
+        }
+    },
+    {
+        "pricePerTB": "77.245",
+        "pricePerGB": "77.245",
+        "price": "154.49",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B089C6LZ42",
+            "text": "SAMSUNG 870 QVO SATA III SSD 2TB 2.5\" Internal Solid State Drive, Upgrade Desktop PC or Laptop Memory and Storage for IT Pros, Creators, Everyday Users, MZ-77Q2T0B"
+        }
+    },
+    {
+        "pricePerTB": "69.2115384615385",
+        "pricePerGB": "0.07029296875",
+        "price": "35.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BX61DW5Y",
+            "text": "S100 512GB SSD SATA III 2.5\" Internal Solid State Drive SLC Cache 3D NAND TLC, Read Speed up to 550MB/sec, Compatible with Laptop and PC"
+        }
+    },
+    {
+        "pricePerTB": "135.583333333333",
+        "pricePerGB": "0.135583333333333",
+        "price": "32.54",
+        "capacity": 0.24,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B093QL56WR",
+            "text": "Western Digital 240GB WD Green SN350 NVMe Internal SSD Solid State Drive - Gen3 PCIe, M.2 2280, Up to 2,400 MB/s - WDS240G2G0C"
+        }
+    },
+    {
+        "pricePerTB": "83.98",
+        "pricePerGB": "0.08398",
+        "price": "41.99",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09RBCZXL1",
+            "text": "MSI SPATIUM M450 PCIe 4.0 NVMe M.2 500GB Internal Gaming SSD up to 3600MB/s 3D NAND Up to 600 TBW"
+        }
+    },
+    {
+        "pricePerTB": "68.56",
+        "pricePerGB": "68.56",
+        "price": "68.56",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09TRFF6FG",
+            "text": "MSI SPATIUM M450 PCIe 4.0 NVMe M.2 1TB Internal Gaming SSD up to 3600MB/s 3D NAND Up to 600 TBW"
+        }
+    },
+    {
+        "pricePerTB": "95.03",
+        "pricePerGB": "0.09503",
+        "price": "95.03",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CDW66CG7",
+            "text": "MSI Gaming SPATIUM M480 PRO PCIe 4.0 NVMe M.2 1TB Internal SSD (PCIe Gen4, NVMe 1.4, M.2 2280, Read 7400 MB/S, Write 6000 MB/S, 1TB)"
+        }
+    },
+    {
+        "pricePerTB": "79.995",
+        "pricePerGB": "79.995",
+        "price": "159.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08QB93S6R",
+            "text": "Samsung Electronics 870 EVO 2TB 2.5 Inch SATA III Internal SSD (MZ-77E2T0B/AM)"
+        }
+    },
+    {
+        "pricePerTB": "100.315",
+        "pricePerGB": "100.315",
+        "price": "200.63",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BHJDY57J",
+            "text": "SAMSUNG 990 PRO w/ Heatsink SSD 2TB PCIe 4.0 M.2 Internal Solid State Hard Drive, Fastest Speed for Gaming, Heat Control, Direct Storage and Memory Expansion, Compatible w/ Playstation5, MZ-V9P2T0CW"
+        }
+    },
+    {
+        "pricePerTB": "74.9583333333333",
+        "pricePerGB": "0.0749583333333333",
+        "price": "17.99",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09WMP88Z3",
+            "text": "TEAMGROUP T-Force Vulcan Z 240GB SLC Cache 3D NAND TLC 2.5 Inch SATA III Internal Solid State Drive SSD (R/W Speed up to 520/450 MB/s) T253TZ240G0C101"
+        }
+    },
+    {
+        "pricePerTB": "95.7916666666667",
+        "pricePerGB": "0.0957916666666667",
+        "price": "22.99",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08TZXZ3PG",
+            "text": "Lexar 240GB NQ100 SSD 2.5\u201d SATA III Internal Solid State Drive, Up to 550MB/s Read, Gray (LNQ100X240G-RNNNU)"
+        }
+    },
+    {
+        "pricePerTB": "49.995",
+        "pricePerGB": "49.995",
+        "price": "99.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07Q37V1C9",
+            "text": "Silicon Power 2TB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5\" 7mm (0.28\") SSD Internal Solid State Drive (SP002TBSS3A55S25)"
+        }
+    },
+    {
+        "pricePerTB": "108.25",
+        "pricePerGB": "0.10825",
+        "price": "12.99",
+        "capacity": 0.12,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B085YCMD42",
+            "text": "LEVEN JS600 2.5'' SSD 120GB Internal Solid State Drive, Compatible with Laptop and PC Desktops-New Version"
+        }
+    },
+    {
+        "pricePerTB": "81.44",
+        "pricePerGB": "81.44",
+        "price": "81.44",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CQBZ3PBJ",
+            "text": "Addlink S93 1TB PCIe 4.0 NVMe SSD M.2 2280 Internal Solid State Drive, Read Speed up to 7200 MB/s, Gaming SSD, for Gamers and Creators- Dram-Less SLC Cache SSD (ad1TBS93M2P) Made in Taiwan"
+        }
+    },
+    {
+        "pricePerTB": "153.769230769231",
+        "pricePerGB": "0.156171875",
+        "price": "19.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B1WXDK8N",
+            "text": "128GB mSATA SSD SATA III 6Gb/s Small Form Internal Solid State Drive Mini Hard Disk for Ultrabook Desktop PC Laptop (30 x 50mm)"
+        }
+    },
+    {
+        "pricePerTB": "74.7692307692308",
+        "pricePerGB": "0.0759375",
+        "price": "38.88",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09RFSYGNG",
+            "text": "MMOMENT MT34 512GB PCIe Gen3 NVMe M.2 2280 Internal Solid State Drive, Gen3.0X4, Read Speed up to 2000MB/s, for Laptop and PC Desktop"
+        }
+    },
+    {
+        "pricePerTB": "82.4975",
+        "pricePerGB": "82.4975",
+        "price": "329.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BZ62Y2S6",
+            "text": "Corsair MP600 CORE XT 4TB PCIe Gen4 x4 NVMe M.2 SSD \u2013 High-Density QLC NAND \u2013 M.2 2280 \u2013 DirectStorage Compatible - Up to 5,000MB/sec \u2013 Great for PCIe 4.0 Notebooks and Desktops \u2013 Black"
+        }
+    },
+    {
+        "pricePerTB": "74.99",
+        "pricePerGB": "0.07499",
+        "price": "74.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08V1647LL",
+            "text": "Lexar NM620 SSD 1TB PCIe Gen3 NVMe M.2 2280 Internal Solid State Drive, Up to 3300MB/s, for Gamers and PC Enthusiasts (LNM620X001T-RNNNU)"
+        }
+    },
+    {
+        "pricePerTB": "82.5145631067961",
+        "pricePerGB": "0.082998046875",
+        "price": "84.99",
+        "capacity": 1.03,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09H2VWYTT",
+            "text": "INLAND 1TB Performance Plus NVMe Internal Gaming SSD Solid State Drive Optimized for PS5 - Gen4 PCIe, M.2 2280, DRAM Cache, TLC 3D NAND Flash, Up to 7000MB/s"
+        }
+    },
+    {
+        "pricePerTB": "75.1844660194175",
+        "pricePerGB": "0.075625",
+        "price": "77.44",
+        "capacity": 1.03,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BGKLDGND",
+            "text": "Addlink S90 Lite 1TB NVMe 4.0 Gen4 PCIe M.2 3D NAND Internal Gaming SSD - Read Speed up to 5000 MB/s (ad1TBS90LTM2P)"
+        }
+    },
+    {
+        "pricePerTB": "79.99",
+        "pricePerGB": "79.99",
+        "price": "79.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C8RNQMD4",
+            "text": "ADATA 1TB SSD Legend 900 PCIe Gen4x4 NVMe M.2 Internal Gaming SSD Up to 7,000 MB/s PS5 Compatible (SLEG-900-1TCS)"
+        }
+    },
+    {
+        "pricePerTB": "99.95",
+        "pricePerGB": "99.95",
+        "price": "99.95",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BF7FWBWR",
+            "text": "Fantom Drives VENOM8 1TB NVMe Gen 4 M.2 SSD 1TB for Playstation 5 (PS5) Gaming PC & Laptop, Graphics, Video Editing - 3D NAND TLC DDR4 DRAM Cache Internal Solid State Drive - Up to 7400MB/s (VM8X10)"
+        }
+    },
+    {
+        "pricePerTB": "119.995",
+        "pricePerGB": "0.119995",
+        "price": "239.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BZ7WGLM8",
+            "text": "INLAND TD510 2TB PCIe 5.0 M.2 SSD Gen5 x 4 232-L 3D TLC NAND NVMe 2280 Internal Solid State Drive Gaming SSD with Heatsink & DRAM"
+        }
+    },
+    {
+        "pricePerTB": "124.958333333333",
+        "pricePerGB": "0.124958333333333",
+        "price": "29.99",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B01F9G43WU",
+            "text": "SanDisk SSD PLUS 240GB Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 530 MB/s - SDSSDA-240G-G26"
+        }
+    },
+    {
+        "pricePerTB": "123.0",
+        "pricePerGB": "0.124921875",
+        "price": "15.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B2J7Y1MB",
+            "text": "Timetec 128GB SSD 3D NAND SATA III 6Gb/s 2.5 Inch 7mm (0.28\") Read Speed Up to 550 MB/s SLC Cache Performance Boost Internal Solid State Drive for PC Computer Desktop and Laptop (128GB)"
+        }
+    },
+    {
+        "pricePerTB": "83.88",
+        "pricePerGB": "0.08388",
+        "price": "83.88",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09HKDQ1RN",
+            "text": "Western Digital 1TB WD Blue SN570 NVMe Internal Solid State Drive SSD - Gen3 x4 PCIe 8Gb/s, M.2 2280, Up to 3,500 MB/s - WDS100T3B0C"
+        }
+    },
+    {
+        "pricePerTB": "89.98",
+        "pricePerGB": "0.08998",
+        "price": "44.99",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09CGM6Q2Y",
+            "text": "INLAND TN450 500GB NVMe M.2 PCIe Gen4x4 2280 Internal Solid State Drive SSD - Up to 5,000 MB/s, 3D NAND, Storage and Memory for Laptop & PC Desktop"
+        }
+    },
+    {
+        "pricePerTB": "302.0",
+        "pricePerGB": "302.0",
+        "price": "302.0",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B078211KCN",
+            "text": "Samsung 860 PRO 1TB 2.5 Inch SATA III Internal SSD (MZ-76P1T0BW)"
+        }
+    },
+    {
+        "pricePerTB": "77.99",
+        "pricePerGB": "77.99",
+        "price": "77.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09F5P2JT8",
+            "text": "acer Predator GM7000 1TB NVMe Gen4 Gaming SSD, M.2 2280, Compatible with PS5, PCIe 4.0 Internal PC Solid State Hard Drive Up to 7400MB/s - BL.9BWWR.105"
+        }
+    },
+    {
+        "pricePerTB": "69.2115384615385",
+        "pricePerGB": "0.07029296875",
+        "price": "35.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B7QYZF9X",
+            "text": "EN206 512GB 3D NAND TLC M.2 SSD, M.2 2280 SATA III 6Gb/s SSD Internal Hard Drive, Read/Write Speed up to 550/460 MB/s, Compatible with Ultrabooks, Tablet Computers and Mini PCs"
+        }
+    },
+    {
+        "pricePerTB": "67.9514563106796",
+        "pricePerGB": "0.068349609375",
+        "price": "69.99",
+        "capacity": 1.03,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9213GBX",
+            "text": "Lexar 1TB NM790 SSD PCIe Gen4 NVMe M.2 2280 Internal Solid State Drive, Up to 7400/6500 MB/s Read/Write, Compatible with PS5, for Gamers and Creators, Black (LNM790X001T-RNNNU)"
+        }
+    },
+    {
+        "pricePerTB": "79.0",
+        "pricePerGB": "0.079",
+        "price": "158.0",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09QVD9V7R",
+            "text": "SK hynix Platinum P41 2TB PCIe NVMe Gen4 M.2 2280 Internal Gaming SSD, Up to 7,000MB/S, Compact SSD Form Factor - Solid State Drive with 176-Layer NAND Flash"
+        }
+    },
+    {
+        "pricePerTB": "130.692307692308",
+        "pricePerGB": "0.132734375",
+        "price": "16.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2242 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B095SC5RZM",
+            "text": "128GB M.2 SATA SSD 2242 NGFF B&M Key Internal Solid State Drive 6Gb/s for Desktop Laptop PC"
+        }
+    },
+    {
+        "pricePerTB": "57.4875",
+        "pricePerGB": "57.4875",
+        "price": "229.95",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B25P44CL",
+            "text": "Crucial P3 4TB PCIe Gen3 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT4000P3SSD8"
+        }
+    },
+    {
+        "pricePerTB": "77.495",
+        "pricePerGB": "0.077495",
+        "price": "154.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B099RHVB42",
+            "text": "SK hynix Gold P31 2TB PCIe NVMe Gen3 M.2 2280 Internal SSD, Up to 3500MB/S, Compact, Form Factor SSD - Internal Solid State Drive with 128-Layer NAND Flash"
+        }
+    },
+    {
+        "pricePerTB": "50.995",
+        "pricePerGB": "50.995",
+        "price": "101.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9DPWRZ3",
+            "text": "FN955 2TB SSD M.2 2280 PCIe Gen4 x4 NVMe 1.4 Internal Solid State Drive - Speeds up to 7350MB/s, Configure SLC Cache,Compatible with Laptop/Desktop/Ps5"
+        }
+    },
+    {
+        "pricePerTB": "96.1153846153846",
+        "pricePerGB": "0.0976171875",
+        "price": "24.99",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B55SWRCY",
+            "text": "S500 Pro 256GB NVMe SSD M.2 PCIe Gen3x4 2280 Internal Solid State Drive, SLC Cache 3D NAND TLC, Up to 3500MB/s, Compatible with Laptop and PC Desktops(Black)"
+        }
+    },
+    {
+        "pricePerTB": "63.4423076923077",
+        "pricePerGB": "0.06443359375",
+        "price": "32.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BG73FKKJ",
+            "text": "Vansuny 512GB SATA III SSD Internal Solid State Drive 2.5\u201d Internal Drive Advanced 3D NAND Flash Up to 500MB/s SSD Hard Drive for PC Laptop"
+        }
+    },
+    {
+        "pricePerTB": "71.1346153846154",
+        "pricePerGB": "0.07224609375",
+        "price": "36.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B088KLZKPQ",
+            "text": "INLAND Professional 512GB SSD 3D TLC NAND SATA III 6Gb/s 2.5\" 7mm Internal Solid State Drive (512GB)"
+        }
+    },
+    {
+        "pricePerTB": "55.3300970873786",
+        "pricePerGB": "0.055654296875",
+        "price": "56.99",
+        "capacity": 1.03,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08GJBL7QY",
+            "text": "Timetec 1TB SSD 3D NAND SATA III 6Gb/s M.2 2280 NGFF 512TBW Read Speed Up to 550MB/s SLC Cache Performance Boost Internal Solid State Drive for PC Computer Laptop and Desktop (1TB)"
+        }
+    },
+    {
+        "pricePerTB": "92.2692307692308",
+        "pricePerGB": "0.0937109375",
+        "price": "23.99",
+        "capacity": 0.26,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08M64B83G",
+            "text": "LEVEN JMS600 mSATA SSD 256GB 3D NAND SATA III 6 Gb/s, mSATA (30x50.9mm) Internal Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "119.115384615385",
+        "pricePerGB": "0.1209765625",
+        "price": "30.97",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07ZGK3K4V",
+            "text": "Silicon Power 256GB NVMe M.2 PCIe Gen3x4 2280 SSD (SP256GBP34A60M28)"
+        }
+    },
+    {
+        "pricePerTB": "256.461538461538",
+        "pricePerGB": "0.26046875",
+        "price": "33.34",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07KG2G152",
+            "text": "Transcend TS128GMTS430S 128GB M.2 2242 SATAIII B+M Key MTS430S Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "55.995",
+        "pricePerGB": "55.995",
+        "price": "111.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08GM984PF",
+            "text": "TEAMGROUP MP33 PRO 2TB SLC Cache 3D NAND TLC NVMe 1.3 PCIe Gen3x4 M.2 2280 Internal Solid State Drive SSD (Read Speed up to 2100MB/s) TBW>1,000TB Compatible with Laptop & PC Desktop TM8FPD002T0C101"
+        }
+    },
+    {
+        "pricePerTB": "102.615384615385",
+        "pricePerGB": "0.10421875",
+        "price": "26.68",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CDZ8CQSD",
+            "text": "MMOMENT NVMe M.2 2280 PCIe Gen 3x4, Solid State Drive Internal SSD (MP34 SE, 256GB)"
+        }
+    },
+    {
+        "pricePerTB": "59.99",
+        "pricePerGB": "59.99",
+        "price": "59.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B51DY6CP",
+            "text": "ES106 1TB SSD SATA III 2.5\" 3D NAND Internal Hard Drive, up to 550MB/s Read\uff0cUpgrade PC or Laptop Memory and Storage(Black)"
+        }
+    },
+    {
+        "pricePerTB": "111.519230769231",
+        "pricePerGB": "0.11326171875",
+        "price": "57.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08ZNSQYXS",
+            "text": "Kingston SKC600MS/512G - 512GB mSATA SATA III Format SSD with 256-bit XTS-AEX encryption"
+        }
+    },
+    {
+        "pricePerTB": "197.2",
+        "pricePerGB": "0.1972",
+        "price": "49.3",
+        "capacity": 0.25,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09HKGGPLR",
+            "text": "Western Digital 250GB WD Blue SN570 NVMe Internal Solid State Drive SSD - Gen3 x4 PCIe 8Gb/s, M.2 2280, Up to 3,300 MB/s - WDS250G3B0C"
+        }
+    },
+    {
+        "pricePerTB": "104.5",
+        "pricePerGB": "104.5",
+        "price": "209.0",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07L31K2MK",
+            "text": "Samsung 860 QVO 2TB 2.5 Inch SATA III Internal SSD (MZ-76Q2T0B/AM), Gray"
+        }
+    },
+    {
+        "pricePerTB": "104.99",
+        "pricePerGB": "0.10499",
+        "price": "104.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B7CPSN2K",
+            "text": "WD_BLACK 1TB SN850X NVMe Internal Gaming Solid State Drive with Heatsink - Works with Playstation 5, Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2XHE"
+        }
+    },
+    {
+        "pricePerTB": "149.99",
+        "pricePerGB": "149.99",
+        "price": "149.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C44XVWCH",
+            "text": "WD_Black 1TB C50 Expansion Card, Officially Licensed for Xbox \u2013 Quick Resume, Plug & Play, NVMe SSD Expansion for Xbox Series X|S Gaming Consoles - WDBMPH0010BNC-WCSN"
+        }
+    },
+    {
+        "pricePerTB": "74.995",
+        "pricePerGB": "74.995",
+        "price": "149.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B093HKLY24",
+            "text": "Western Digital 2TB D30 Game SSD - Portable External Solid State Drive, Compatible with Playstation, Xbox, & PC, Up to 900MB/s - WDBATL0020BBK-WESN"
+        }
+    },
+    {
+        "pricePerTB": "89.99",
+        "pricePerGB": "89.99",
+        "price": "89.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08QBJ2YMG",
+            "text": "Samsung 870 EVO SATA III SSD 1TB 2.5\u201d Internal Solid State Drive, Upgrade PC or Laptop Memory and Storage for IT Pros, Creators, Everyday Users, MZ-77E1T0B/AM"
+        }
+    },
+    {
+        "pricePerTB": "107.4975",
+        "pricePerGB": "107.4975",
+        "price": "429.99",
+        "capacity": 4.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08V8THXNL",
+            "text": "Western Digital 4TB P50 Game Drive SSD - Portable External Solid State Drive SSD, Compatible with Playstation, Xbox, PC, & Mac, Up to 2,000 MB/s - WDBA3S0040BBK-WESN"
+        }
+    },
+    {
+        "pricePerTB": "169.0",
+        "pricePerGB": "0.169",
+        "price": "84.5",
+        "capacity": 0.5,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08KFN1KT1",
+            "text": "WD_BLACK 500GB SN850 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, 3D NAND, Up to 7,000 MB/s - WDS500G1X0E"
+        }
+    },
+    {
+        "pricePerTB": "164.0",
+        "pricePerGB": "164.0",
+        "price": "164.0",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07YFGTDV4",
+            "text": "Western Digital 1TB P50 Game Drive SSD - Portable External Solid State Drive, Compatible with Playstation, Xbox, PC, & Mac, Up to 2,000 MB/s - WDBA3S0010BBK-WESN"
+        }
+    },
+    {
+        "pricePerTB": "74.99",
+        "pricePerGB": "0.07499",
+        "price": "74.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09ZYQ84CM",
+            "text": "Western Digital 1TB WD Blue SA510 SATA Internal Solid State Drive SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS100T3B0A"
+        }
+    },
+    {
+        "pricePerTB": "22.4991666666667",
+        "pricePerGB": "22.4991666666667",
+        "price": "269.99",
+        "capacity": 12.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07XV8JN31",
+            "text": "Western Digital BLACK 12TB D10 Game Drive for Xbox - Desktop External Hard Drive HDD (7200 RPM) with 1-Month Xbox Game Pass - WDBA5E0120HBK-NESN"
+        }
+    },
+    {
+        "pricePerTB": "44.995",
+        "pricePerGB": "44.995",
+        "price": "89.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08NTKC3DW",
+            "text": "WD BLACK 2TB P10 Game Drive Call of Duty Special Edition: Black Ops Cold War, Portable External Hard Drive HDD, Compatible with Playstation, Xbox, and PC - WDBAZC0020BBK-WESN"
+        }
+    },
+    {
+        "pricePerTB": "58.25",
+        "pricePerGB": "58.25",
+        "price": "116.5",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B25MJ1YT",
+            "text": "Crucial P3 2TB PCIe Gen3 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT2000P3SSD8"
+        }
+    },
+    {
+        "pricePerTB": "124.495",
+        "pricePerGB": "0.124495",
+        "price": "248.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BGYMHS8Y",
+            "text": "SanDisk Professional 2TB PRO-G40 SSD - Up to 3000MB/s, Thunderbolt 3 (40Gbps), USB-C (10Gbps), IP68 dust/Water Resistance, External Solid State Drive - SDPS31H-002T-GBCND"
+        }
+    },
+    {
+        "pricePerTB": "84.99",
+        "pricePerGB": "84.99",
+        "price": "84.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C28HLKNB",
+            "text": "Corsair MP600 Mini 1TB M.2 NVMe PCIe x4 Gen4 2 SSD \u2013 M.2 2230 \u2013 Up to 4,800MB/sec Sequential Read \u2013 High-Density 3D TLC NAND \u2013 Great for Steam Deck and Microsoft Surface \u2013 Black"
+        }
+    },
+    {
+        "pricePerTB": "84.99",
+        "pricePerGB": "84.99",
+        "price": "84.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CGW1FQV4",
+            "text": "Crucial X9 1TB Portable SSD - Up to 1050MB/s Read - PC and Mac, Lightweight and Small with 3-Month Mylio Photos+ Offer - USB 3.2 External Solid State Drive - CT1000X9SSD902"
+        }
+    },
+    {
+        "pricePerTB": "89.99",
+        "pricePerGB": "89.99",
+        "price": "89.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07YFG3R5N",
+            "text": "Western Digital 1TB WD Red SA500 NAS 3D NAND Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS100T1R0A, Solid State Hard Drive"
+        }
+    },
+    {
+        "pricePerTB": "64.98",
+        "pricePerGB": "64.98",
+        "price": "64.98",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BM3RZW6W",
+            "text": "S201 1TB M.2 SSD 2280 SATA III 6Gb/s Internal Solid State Drive, SLC Cache for Speed Boost, Read Speed up to 550MB/sec, Compatible with Laptop and PC Desktops(Black)"
+        }
+    },
+    {
+        "pricePerTB": "109.995",
+        "pricePerGB": "109.995",
+        "price": "219.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C5YS3QY4",
+            "text": "SABRENT Rocket Q4 2230 NVMe 4.0 2TB High Performance PCIe 4.0 M.2 2230 SSD Compatible with Steam Deck, ASUS ROG Ally, Mini PCs [SB-213Q-2TB]"
+        }
+    },
+    {
+        "pricePerTB": "18.124375",
+        "pricePerGB": "0.018124375",
+        "price": "289.99",
+        "capacity": 16.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08KTSWHZB",
+            "text": "WD 16TB My Book Desktop External Hard Drive, USB 3.0, External HDD with Password Protection and Backup Software - WDBBGB0160HBK-NESN"
+        }
+    },
+    {
+        "pricePerTB": "52.495",
+        "pricePerGB": "0.052495",
+        "price": "104.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B087K9L7S7",
+            "text": "Patriot P210 2TB Internal SSD - SATA 3 2.5\" - Solid State Drive - P210S2TB25"
+        }
+    },
+    {
+        "pricePerTB": "59.995",
+        "pricePerGB": "59.995",
+        "price": "119.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BNQ2JZQJ",
+            "text": "S660 PCIe 4.0 2TB NVMe M.2 SSD for PS5 with Heatsink, Up to 5000MB/s, Suitable for Playstation 5 Enthusiasts, Technology Enthusiasts, IT Professionals"
+        }
+    },
+    {
+        "pricePerTB": "188.0",
+        "pricePerGB": "0.188",
+        "price": "47.0",
+        "capacity": 0.25,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B073SB2MXW",
+            "text": "Western Digital 250GB WD Blue 3D NAND Internal PC SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 550 MB/s - WDS250G2B0A"
+        }
+    },
+    {
+        "pricePerTB": "67.9514563106796",
+        "pricePerGB": "0.068349609375",
+        "price": "69.99",
+        "capacity": 1.03,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09FXWSYWB",
+            "text": "1TB Portable External SSD Up to 540MB/s USB 3.1 Type C Ultra-Light External SSD, Mini Portable Solid State Drive for Mac Windows Android Linux"
+        }
+    },
+    {
+        "pricePerTB": "149.99",
+        "pricePerGB": "149.99",
+        "price": "149.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08K3S6WJM",
+            "text": "Seagate Storage Expansion Card For Xbox Series XS 1TB Solid State Drive - NVMe Expansion SSD, Quick Resume, Plug & Play, Licensed(STJR1000400)"
+        }
+    },
+    {
+        "pricePerTB": "92.99",
+        "pricePerGB": "92.99",
+        "price": "92.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08XKMYCBB",
+            "text": "Seagate One Touch SSD 1TB External SSD Portable \u2013 Black, speeds up to 1030MB/s, 6mo Mylio Photo+ subscription, 6mo Dropbox Backup Plan\u200b and Rescue Services (STKG1000400)"
+        }
+    },
+    {
+        "pricePerTB": "63.075",
+        "pricePerGB": "0.063075",
+        "price": "126.15",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08LB9TMYK",
+            "text": "Seagate Barracuda Q5 2TB Internal SSD - M.2 NVMe PCIe Gen3 \u00d74, 3D QLC for Desktop or Laptop, 1-Year Rescue Services (ZP2000CV3A001)"
+        }
+    },
+    {
+        "pricePerTB": "94.995",
+        "pricePerGB": "94.995",
+        "price": "189.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08XKNBDNJ",
+            "text": "Seagate One Touch SSD 2TB External SSD Portable \u2013 Silver, speeds up to 1030MB/s, 6mo Mylio Photo+ subscription, 6mo Dropbox Backup Plan\u200b and Rescue Services (STKG2000401)"
+        }
+    },
+    {
+        "pricePerTB": "189.99",
+        "pricePerGB": "0.18999",
+        "price": "189.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B083GH4MQH",
+            "text": "Seagate Firecuda Gaming SSD 1TB External Solid State Drive \u2013 USB-C USB 3.2 Gen 2x2 with NVMe for PC Laptop (STJP1000400)"
+        }
+    },
+    {
+        "pricePerTB": "109.99",
+        "pricePerGB": "0.10999",
+        "price": "109.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07ZPRK68X",
+            "text": "Seagate Barracuda 510 1TB SSD Internal Solid State Drive \u2013 PCIe Nvme 3D TLC NAND for Gaming PC Gaming Laptop Desktop (ZP1000CM30001)"
+        }
+    },
+    {
+        "pricePerTB": "238.12",
+        "pricePerGB": "0.23812",
+        "price": "119.06",
+        "capacity": 0.5,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07HPC8TD6",
+            "text": "Seagate STHB500401 Game Drive for Xbox 500GB SSD External Solid State Drive, Portable USB 3.0 \u2013 Designed for Xbox One, 2 Month Xbox Game Pass Membership, 1 Year Rescue Service"
+        }
+    },
+    {
+        "pricePerTB": "84.995",
+        "pricePerGB": "84.995",
+        "price": "169.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09VLJ7VBM",
+            "text": "SAMSUNG T7 Shield 2TB Portable SSD, USB 3.2 Gen2, Rugged, IP65 Rated, for Photographers, Content Creators and Gaming, External Solid State Drive (MU-PE2T0R/AM, 2022), Blue"
+        }
+    },
+    {
+        "pricePerTB": "99.99",
+        "pricePerGB": "99.99",
+        "price": "99.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0874XN4D8",
+            "text": "SAMSUNG SSD T7 Portable External Solid State Drive 1TB, Up to USB 3.2 Gen 2, Reliable Storage for Gaming, Students, Professionals, MU-PC1T0T/AM, Gray"
+        }
+    },
+    {
+        "pricePerTB": "37.1075",
+        "pricePerGB": "37.1075",
+        "price": "148.43",
+        "capacity": 4.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BN4D5RFK",
+            "text": "Seagate Ultra Touch HDD 4TB External Hard Drive - 15mm, Pebble Grey, Post-Consumer Recycled Material, 6mo Dropbox and Mylio, Rescue Services (STMA4000400)"
+        }
+    },
+    {
+        "pricePerTB": "67.34",
+        "pricePerGB": "0.06734",
+        "price": "33.67",
+        "capacity": 0.5,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B091FS79T8",
+            "text": "UnionSine 500GB 2.5\" Ultra Slim Portable External Hard Drive HDD-USB 3.0 for PC, Mac, Laptop, PS4, Xbox one,Xbox 360-HD-2510(Black)"
+        }
+    },
+    {
+        "pricePerTB": "141.666666666667",
+        "pricePerGB": "0.141666666666667",
+        "price": "136.0",
+        "capacity": 0.96,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B087CMQVKQ",
+            "text": "Seagate BarraCuda Q1 SSD 960 GB Internal Solid State Drive \u2013 2.5 Inch SATA 6 Gb/s for PC Laptop Upgrade 3D QLC NAND (ZA960CV1A001)"
+        }
+    },
+    {
+        "pricePerTB": "44.995",
+        "pricePerGB": "0.044995",
+        "price": "89.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08Y1Q2KSZ",
+            "text": "Seagate Game Drive for Xbox 2TB External Hard Drive Portable HDD - USB 3.2 Gen 1, Black with built-in green LED bar , Xbox Certified, 3 year Rescue Services (STKX2000400)"
+        }
+    },
+    {
+        "pricePerTB": "89.99",
+        "pricePerGB": "89.99",
+        "price": "89.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BNQ2DFX6",
+            "text": "S770 1TB NVMe M.2 SSD for PS5 - with Heatsink and DRAM, Up to 7300MB/s, PCIe 4.0, Suitable for Playstation 5 Memory Expansion, Game Enthusiasts, IT Professionals"
+        }
+    },
+    {
+        "pricePerTB": "89.995",
+        "pricePerGB": "89.995",
+        "price": "179.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09JHKSNNG",
+            "text": "SAMSUNG 980 PRO SSD with Heatsink 2TB PCIe Gen 4 NVMe M.2 Internal Solid State Drive, Heat Control, Max Speed, PS5 Compatible (MZ-V8P2T0CW)"
+        }
+    },
+    {
+        "pricePerTB": "69.99",
+        "pricePerGB": "0.06999",
+        "price": "69.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C8XMH264",
+            "text": "Western Digital 1TB WD Blue SN580 NVMe Internal Solid State Drive SSD - Gen4 x4 PCIe 16Gb/s, M.2 2280, Up to 4,150 MB/s - WDS100T3B0E"
+        }
+    },
+    {
+        "pricePerTB": "19.2775",
+        "pricePerGB": "19.2775",
+        "price": "154.22",
+        "capacity": 8.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07CQJBSQL",
+            "text": "Seagate Desktop Drive 8000 GB 8TB external Hard Drive, 3.5 Inch, USB 3.0, PC & Notebook, Xbox & PS4, Modellnr.: STGY8000400"
+        }
+    },
+    {
+        "pricePerTB": "89.99",
+        "pricePerGB": "89.99",
+        "price": "89.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09RMHC8L8",
+            "text": "Nextorage Japan 1TB(1000GB) Internal SSD Work with New Playstation 5 Console and PC M.2 2280 Gen4 NVMe with Heatsink NEM-PA1TB/N SYM Maximum Transfer Rate Read: 7300MB/s, Write: 6000MB/s"
+        }
+    },
+    {
+        "pricePerTB": "38.7475",
+        "pricePerGB": "38.7475",
+        "price": "154.99",
+        "capacity": 4.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9YLX42J",
+            "text": "SanDisk Professional 4TB G-Drive ArmorATD - Rugged, Durable Portable External Hard Drive HDD, USB-C, USB 3.2 Gen 1 - SDPH81G-004T-GBA1D"
+        }
+    },
+    {
+        "pricePerTB": "53.495",
+        "pricePerGB": "53.495",
+        "price": "106.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C69GQ6WG",
+            "text": "EN600 PRO SSD 2TB PCle 3.0x4, NVMe M.2 2280, Up to 3500MB/s, Internal Solid State Drive, SLC Cache 3D NAND TLC, Graphene Cooling Sticker, Storage for PC, Desktop and Laptops"
+        }
+    },
+    {
+        "pricePerTB": "53.495",
+        "pricePerGB": "53.495",
+        "price": "106.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08DTLM8KV",
+            "text": "LEVEN JPS850 2TB PCIe Gen4 Speed up to 6,600MB/s 3D NAND NVMe M.2 SSD, Perfectly Compatible with NAS Devices Approved for Asustor AS54/ FS67 High Endurance with Thermal Pad and Heat Sink"
+        }
+    },
+    {
+        "pricePerTB": "84.34375",
+        "pricePerGB": "0.08434375",
+        "price": "26.99",
+        "capacity": 0.32,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07BDQ7BV2",
+            "text": "Maxone 320GB Ultra Slim Portable External Hard Drive HDD USB 3.0 for PC, Laptop, Mac, PS4, Xbox one - Charcoal Grey"
+        }
+    },
+    {
+        "pricePerTB": "14.98",
+        "pricePerGB": "14.98",
+        "price": "89.88",
+        "capacity": 6.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09SKCXDML",
+            "text": "Avolusion PRO-X 6TB USB 3.0 External Gaming Hard Drive for PS5/PS4 Game Console - 2 Year Warranty"
+        }
+    },
+    {
+        "pricePerTB": "12.49875",
+        "pricePerGB": "12.49875",
+        "price": "99.99",
+        "capacity": 8.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BRR81XSZ",
+            "text": "PRO-T5 Series 8TB USB 3.0 External Gaming Hard Drive for PS5 Game Console (White) - 2 Year Warranty"
+        }
+    },
+    {
+        "pricePerTB": "79.995",
+        "pricePerGB": "79.995",
+        "price": "159.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0723CMH14",
+            "text": "Seagate Game Drive for Xbox Game Pass Special Edition 2TB - White (STEA2000417), Portable"
+        }
+    },
+    {
+        "pricePerTB": "29.04",
+        "pricePerGB": "29.04",
+        "price": "145.2",
+        "capacity": 5.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B01LXO31IZ",
+            "text": "Seagate Barracuda 2.5in 5tb Sata 2.5in 5400rpm 6gb/s 128mb 15"
+        }
+    },
+    {
+        "pricePerTB": "13.235",
+        "pricePerGB": "13.235",
+        "price": "105.88",
+        "capacity": 8.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B098PSWPDM",
+            "text": "Avolusion PRO-5X Series 8TB USB 3.0 External Gaming Hard Drive for PS5 Game Console (White) - 2 Year Warranty"
+        }
+    },
+    {
+        "pricePerTB": "54.99",
+        "pricePerGB": "54.99",
+        "price": "54.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0932J2L8N",
+            "text": "BUFFALO External SSD 1TB - Compatible with PS4 / PS5 / Windows/Mac - USB-C - USB-A - USB 3.2 - External Solid State Drive - SSD-PG1.0U3B"
+        }
+    },
+    {
+        "pricePerTB": "56.99",
+        "pricePerGB": "0.05699",
+        "price": "56.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07QJ2BXN8",
+            "text": "HP S700 2.5\" 1TB SATA III 3D Internal Solid State Drive (SSD) 6MC15AA#ABC"
+        }
+    },
+    {
+        "pricePerTB": "62.495",
+        "pricePerGB": "0.062495",
+        "price": "124.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09PCWWD1B",
+            "text": "HP FX900 Pro 2 TB Solid State Drive - M.2 2280 Internal - PCI Express NVMe (PCI Express NVMe 4.0 x4)"
+        }
+    },
+    {
+        "pricePerTB": "187.458333333333",
+        "pricePerGB": "0.187458333333333",
+        "price": "44.99",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09H6WXHWC",
+            "text": "HP SSD 240GB 2.5\" S650 SATA 560-490MB/S 345M8AA#ABB"
+        }
+    },
+    {
+        "pricePerTB": "118.99",
+        "pricePerGB": "118.99",
+        "price": "118.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0795Z97K7",
+            "text": "HP EX920 M.2 1TB PCIe 3.1 X4 Nvme 3D TLC NAND Internal Solid State Drive (SSD) Max 3200 Mbps 2Yy47Aa#ABC"
+        }
+    },
+    {
+        "pricePerTB": "153.56",
+        "pricePerGB": "0.15356",
+        "price": "38.39",
+        "capacity": 0.25,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08QBN5J9B",
+            "text": "SAMSUNG 870 EVO SATA SSD 250GB 2.5\u201d Internal Solid State Drive, Upgrade Desktop PC or Laptop Memory and Storage for IT Pros, Creators, Everyday Users, MZ-77E250B/AM"
+        }
+    },
+    {
+        "pricePerTB": "74.9975",
+        "pricePerGB": "74.9975",
+        "price": "299.99",
+        "capacity": 4.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BHZQGN26",
+            "text": "SAMSUNG T7 Shield 4TB Portable SSD - 1050MB/s, Rugged, Water & Dust Resistant, for Content Creators - Black"
+        }
+    },
+    {
+        "pricePerTB": "82.6730769230769",
+        "pricePerGB": "0.08396484375",
+        "price": "42.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07TQSYBPH",
+            "text": "Lexar 512GB NS100 SSD 2.5\u201d SATA III Internal Solid State Drive, Up to 550MB/s Read, Gray (LNS100-512RBNA)"
+        }
+    },
+    {
+        "pricePerTB": "64.99",
+        "pricePerGB": "64.99",
+        "price": "64.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BGL85DNC",
+            "text": "EN206 1TB 3D NAND TLC M.2 SSD, M.2 2280 SATA III 6Gb/s SSD Internal Hard Drive, Read/Write Speed up to 550/480 MB/s, Compatible with Ultrabooks, Tablet Computers and Mini PCs"
+        }
+    },
+    {
+        "pricePerTB": "176.846153846154",
+        "pricePerGB": "0.179609375",
+        "price": "22.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B088KLN1HF",
+            "text": "INLAND Professional 128GB SSD 3D TLC NAND SATA III 6Gb/s 2.5\" 7mm Internal Solid State Drive (128GB)"
+        }
+    },
+    {
+        "pricePerTB": "71.1346153846154",
+        "pricePerGB": "0.07224609375",
+        "price": "36.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BG5FSPHS",
+            "text": "512GB SSD Internal Solid State Hard Drive, 3D NAND 2.5inch SATA III 6GB Internal SSD, Up to 550MB/s, Upgraded Performance for PC Laptop Game Creation"
+        }
+    },
+    {
+        "pricePerTB": "61.19",
+        "pricePerGB": "61.19",
+        "price": "61.19",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C9D8FHHF",
+            "text": "FN955 1TB SSD M.2 2280 PCIe Gen4 x4 NVMe 1.4 Internal Solid State Drive - Speeds up to 7350MB/s, Configure SLC Cache,Compatible with Laptop/Desktop/Ps5"
+        }
+    },
+    {
+        "pricePerTB": "59.995",
+        "pricePerGB": "59.995",
+        "price": "119.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CJ4JCMLG",
+            "text": "FN203 2TB M.2 SATA SSD - SLC Cache 3D NAND TLC SATA III 6Gb/s M.2 2280 NGFF Internal Solid State Drive, Up to 550MB/s, Compatible with Ultrabooks, Tablet Computers and Mini PCs"
+        }
+    },
+    {
+        "pricePerTB": "58.99",
+        "pricePerGB": "58.99",
+        "price": "58.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C69NT8RX",
+            "text": "Silicon Power 1TB SSD 3D NAND A58 SLC Cache Performance Boost SATA III 2.5\" 7mm (0.28\") Internal Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "138.384615384615",
+        "pricePerGB": "0.140546875",
+        "price": "17.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BX612GB7",
+            "text": "S100 128GB SSD SATA III 2.5\" Internal Solid State Drive SLC Cache 3D NAND TLC Read Speed up to 550MB/sec Compatible with Laptop and PC"
+        }
+    },
+    {
+        "pricePerTB": "40.495",
+        "pricePerGB": "40.495",
+        "price": "80.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08JKHPV1V",
+            "text": "Toshiba Canvio Flex 2TB Portable External Hard Drive USB-C USB 3.0, Silver for PC, Mac, & Tablet - HDTX120XSCAA"
+        }
+    },
+    {
+        "pricePerTB": "115.307692307692",
+        "pricePerGB": "0.117109375",
+        "price": "14.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08B3JBDJ6",
+            "text": "Patriot P210 SATA 3 128GB SSD 2.5 Inch Internal Solid State Drive - P210S128G25"
+        }
+    },
+    {
+        "pricePerTB": "76.9038461538462",
+        "pricePerGB": "0.07810546875",
+        "price": "39.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2242 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B095S9H214",
+            "text": "512GB M.2 SATA SSD 2242 NGFF B&M Key Internal Solid State Drive 6Gb/s for Desktop Laptop PC"
+        }
+    },
+    {
+        "pricePerTB": "59.99",
+        "pricePerGB": "0.05999",
+        "price": "59.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07ZGJVTZK",
+            "text": "Silicon Power 1TB - NVMe M.2 PCIe Gen3x4 2280 SSD (SP001TBP34A60M28)"
+        }
+    },
+    {
+        "pricePerTB": "61.995",
+        "pricePerGB": "0.061995",
+        "price": "123.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B996CJ64",
+            "text": "Silicon Power 2TB UD90 NVMe 4.0 Gen4 PCIe M.2 SSD R/W up to 5,000/4,800 MB/s (SP02KGBP44UD9005)"
+        }
+    },
+    {
+        "pricePerTB": "72.99",
+        "pricePerGB": "72.99",
+        "price": "72.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07RMYGZ1L",
+            "text": "Silicon Power 1TB Rugged Portable External SSD USB 3.2 Gen 2 (USB3.2) with USB-C to USB-C/USB-A Cables, Ideal for PC, Mac, Xbox and PS4, PS5 Bolt B75 Pro"
+        }
+    },
+    {
+        "pricePerTB": "35.485",
+        "pricePerGB": "35.485",
+        "price": "70.97",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B06XH2ZDXW",
+            "text": "SP Silicon Power 2TB Rugged Portable External Hard Drive Armor A60 Shockproof USB 3.1 Gen1 for PC Mac Xbox and PS4 Black"
+        }
+    },
+    {
+        "pricePerTB": "69.2115384615385",
+        "pricePerGB": "0.07029296875",
+        "price": "35.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07NRMXWHW",
+            "text": "TEAMGROUP GX2 512GB 3D NAND TLC 2.5 Inch SATA III Internal Solid State Drive SSD (Read Speed up to 530 MB/s) Compatible with Laptop & PC Desktop T253X2512G0C101"
+        }
+    },
+    {
+        "pricePerTB": "72.8958333333333",
+        "pricePerGB": "0.0728958333333333",
+        "price": "34.99",
+        "capacity": 0.48,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B25GDTZ5",
+            "text": "Somnambulist SSD 480GB SATA III 6Gb/s 2.5\u2033 7mm(0.28\u2033) Internal Solid State Drive Read Speed Up to 550Mb/s for Laptop and Pc H650 SSD (480GB Black Dragon)"
+        }
+    },
+    {
+        "pricePerTB": "99.99",
+        "pricePerGB": "99.99",
+        "price": "99.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BQG6JCRP",
+            "text": "SABRENT Rocket 2230 NVMe 4.0 1TB High Performance PCIe 4.0 M.2 2230 SSD [SB-2130-1TB]"
+        }
+    },
+    {
+        "pricePerTB": "99.995",
+        "pricePerGB": "99.995",
+        "price": "199.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BN4MQPF9",
+            "text": "SABRENT 2TB External Aluminum SSD, Rocket Nano V2, USB 3.2 Gen 2x2, 1500 MB/s Transfer Speeds [SB-2TB-NAV2]"
+        }
+    },
+    {
+        "pricePerTB": "124.9975",
+        "pricePerGB": "124.9975",
+        "price": "499.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08VF99PV8",
+            "text": "SABRENT 4TB Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 Internal SSD Extreme Performance Solid State Drive R/W 7100/6600MB/s (SB-RKT4P-4TB)"
+        }
+    },
+    {
+        "pricePerTB": "124.9975",
+        "pricePerGB": "124.9975",
+        "price": "499.99",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BJ1283X8",
+            "text": "SABRENT Rocket 4 Plus-G 4TB Advanced Gaming M.2 PCIe NVMe SSD, up to 7GBps (SB-RKTG-4TB)"
+        }
+    },
+    {
+        "pricePerTB": "169.91",
+        "pricePerGB": "169.91",
+        "price": "169.91",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08F76V39T",
+            "text": "SABRENT 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD Maximum Performance Solid State Drive R/W 4700/1800 MB/s (SB-RKTQ4-1TB)"
+        }
+    },
+    {
+        "pricePerTB": "74.995",
+        "pricePerGB": "74.995",
+        "price": "149.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0899GHX8R",
+            "text": "SABRENT Rocket Nano Rugged 2TB USB 3.2 10Gb/s External Aluminum Waterproof [IP67] SSD with Bumper Guard in Grey (SB-2TB-NAWP)"
+        }
+    },
+    {
+        "pricePerTB": "12.49875",
+        "pricePerGB": "12.49875",
+        "price": "99.99",
+        "capacity": 8.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BBZT42HC",
+            "text": "ACASIS 40Gbps M.2 NVMe SSD Enclosure, USB-C Aluminum External Hard Drive Enclosure, for M1 Pro/Max Mac, Support 2280 B+M M-Key PCIe, Compatible with USB4/3.2/3.1/3.0/2.0"
+        }
+    },
+    {
+        "pricePerTB": "369.0",
+        "pricePerGB": "369.0",
+        "price": "369.0",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08BZ2YWPH",
+            "text": "SABRENT Rocket XTRM-Q 1TB USB 3.2 / Thunderbolt 3 External SSD (SB-XTMQ-1TB)"
+        }
+    },
+    {
+        "pricePerTB": "75.475",
+        "pricePerGB": "0.075475",
+        "price": "150.95",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BV1GXT31",
+            "text": "Micron 2TB 2400 M.2 2230 NVMe PCIe 4.0x4 SSD MTFDKBK2T0QFM-1BD1AABYYR"
+        }
+    },
+    {
+        "pricePerTB": "94.2115384615385",
+        "pricePerGB": "0.09568359375",
+        "price": "48.99",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BYW5YFK6",
+            "text": "INLAND 2230 Internal SSD 512GB High Performance Gen4x4 M.2 2230 30mm Internal Solid State Drive PCIe 4.0, up to 4,900 MB/s, TN446"
+        }
+    },
+    {
+        "pricePerTB": "89.99",
+        "pricePerGB": "89.99",
+        "price": "89.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C4KNB2YK",
+            "text": "SK hynix 1TB Portable SSD - Up to 1050MB/s, USB 3.2, Compatible with Windows, Mac, Android - External Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "79.9975",
+        "pricePerGB": "79.9975",
+        "price": "319.99",
+        "capacity": 4.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C5SF333L",
+            "text": "SanDisk 4TB Extreme Portable SSD - Up to 1050MB/s, USB-C, USB 3.2 Gen 2, IP65 Water and dust Resistance, Updated Firmware, Sky Blue - External Solid State Drive - SDSSDE61-4T00-G25B"
+        }
+    },
+    {
+        "pricePerTB": "72.375",
+        "pricePerGB": "0.072375",
+        "price": "579.0",
+        "capacity": 8.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08HGH9HK6",
+            "text": "8TB External SSD USB-C Portable Solid State Drive (USB 3.1 Gen 2) | 3D NAND Flash | Rapid"
+        }
+    },
+    {
+        "pricePerTB": "111.24875",
+        "pricePerGB": "111.24875",
+        "price": "889.99",
+        "capacity": 8.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CJRN3LLX",
+            "text": "Corsair MP600 PRO LPX 8TB M.2 NVMe PCIe x4 Gen4 SSD - Optimized for PS5 (Up to 7,100MB/sec Sequential Read & 5,800MB/sec Sequential Write Speeds, High-Speed Interface, Compact Form Factor) Black"
+        }
+    },
+    {
+        "pricePerTB": "111.538461538462",
+        "pricePerGB": "0.11328125",
+        "price": "29.0",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BZNQ32TC",
+            "text": "256GB M.2 2230 SSD NVMe PCIe Gen 4.0X4 Internal Solid State Drive, Compatible with PS5,Steam Deck, Microsoft Surface, Ultrabook, Laptop, Desktop,GPD (M.2 2230 PCIe 4.0, 256GB)"
+        }
+    },
+    {
+        "pricePerTB": "99.99",
+        "pricePerGB": "99.99",
+        "price": "99.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08DKB5LWY",
+            "text": "SK hynix Gold P31 1TB PCIe NVMe Gen3 M.2 2280 Internal SSD, Up to 3500MB/S, Compact M.2 SSD Form Factor SSD, Internal Solid State Drive with 128-Layer NAND Flash"
+        }
+    },
+    {
+        "pricePerTB": "93.1941747572815",
+        "pricePerGB": "0.093740234375",
+        "price": "95.99",
+        "capacity": 1.03,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CN9CD9JF",
+            "text": "KingSpec 1TB 2230 NVMe GEN 4x4 M.2 SSD, R/W up to 5,000/4,600MB/s, PCIe 4.0 Internal SSD - 3D TLC NAND Flash, 2230 SSD Great for Steam Deck ROG Ally Microsoft Surface"
+        }
+    },
+    {
+        "pricePerTB": "63.99",
+        "pricePerGB": "0.06399",
+        "price": "63.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2242 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C3888NZJ",
+            "text": "Timetec 1TB M.2 2242 SSD NVMe PCIe Gen3x4 3D NAND TLC Read/Write Speed Up to 2,100/1,600 MB/s Compatible with Lenovo Thinkpad E15 / ThinkPad 11e Yoga Gen 6, Laptop and Desktop"
+        }
+    },
+    {
+        "pricePerTB": "80.7307692307692",
+        "pricePerGB": "0.0819921875",
+        "price": "20.99",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CN1RV9TF",
+            "text": "OEM Samsung PM9B1 256GB M.2 PCI-e NVME SSD Internal Solid State Drive 30mm 2230 Form Factor M Key Steam Deck"
+        }
+    },
+    {
+        "pricePerTB": "89.747572815534",
+        "pricePerGB": "0.0902734375",
+        "price": "92.44",
+        "capacity": 1.03,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C27D4NF7",
+            "text": "Addlink S91 1TB 2230 NVMe High Performance PCIe Gen4x4 2230 3D NAND SSD - Read Speed up to 4900 MB/s Compatible with Steam Deck, ROG Ally, Laptop, Internal Solid State Drive - (ad1TBS91M2P)"
+        }
+    },
+    {
+        "pricePerTB": "124.725",
+        "pricePerGB": "124.725",
+        "price": "249.45",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08D9W2KDW",
+            "text": "Fantom Drives Extreme 2TB External SSD - 2800MB/s, Thunderbolt 3 and 4, USB Type-C, Aluminum, 3D NAND TLC, TB3X-2300N2TB"
+        }
+    },
+    {
+        "pricePerTB": "69.995",
+        "pricePerGB": "0.069995",
+        "price": "139.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09H2YHXDB",
+            "text": "INLAND 2TB Performance Plus NVMe Internal Gaming SSD Solid State Drive Optimized for PS5 - Gen4 PCIe, M.2 2280, DRAM Cache, TLC 3D NAND Flash, Up to 7000MB/s"
+        }
+    },
+    {
+        "pricePerTB": "94.2115384615385",
+        "pricePerGB": "0.09568359375",
+        "price": "48.99",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BYPDLK3D",
+            "text": "INLAND TN436 512GB M.2 2230 SSD PCIe Gen 4.0x4 NVMe Internal Solid State Drive, 3D TLC NAND Gaming Internal SSD, Compatible with Steam Deck ROG Ally Mini PCs"
+        }
+    },
+    {
+        "pricePerTB": "114.305",
+        "pricePerGB": "114.305",
+        "price": "914.44",
+        "capacity": 8.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BN9PZSP4",
+            "text": "Addlink S95 8TB SSD for Storage Expansion 7000 MB/s Maximum Read Speed PCIe NVMe Gen4 Internal Solid State Hard Drive - M.2 2280 TLC 3D NAND SSD (ad8TBS95M2P) Made in Taiwan"
+        }
+    },
+    {
+        "pricePerTB": "62.0",
+        "pricePerGB": "62.0",
+        "price": "248.0",
+        "capacity": 4.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BZMK1LWS",
+            "text": "Kingston NV2 4TB M.2 2280 NVMe Internal SSD | PCIe 4.0 Gen 4x4 | Up to 3500 MB/s | SNV2S/4000G"
+        }
+    },
+    {
+        "pricePerTB": "119.230769230769",
+        "pricePerGB": "0.12109375",
+        "price": "31.0",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C1YGPKWZ",
+            "text": "Dogfish SSD M.2 2230 NVMe PCIe 4.0 256GB 3D TLC NAND Gaming Internal Solid State Drive for Steam Deck PS5 Surface Pro Laptop Desktop (M.2 2230 NVMe 4.0, 256GB)"
+        }
+    },
+    {
+        "pricePerTB": "62.495",
+        "pricePerGB": "62.495",
+        "price": "124.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07YFFJK2Q",
+            "text": "SanDisk SSD PLUS 2TB Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 545 MB/s - SDSSDA-2T00-G26"
+        }
+    },
+    {
+        "pricePerTB": "117.995",
+        "pricePerGB": "0.117995",
+        "price": "235.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08KFRFL8F",
+            "text": "WD_BLACK 2TB SN850 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, 3D NAND, Up to 7,000 MB/s - WDS200T1X0E"
+        }
+    },
+    {
+        "pricePerTB": "111.5",
+        "pricePerGB": "0.1132421875",
+        "price": "28.99",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BZVVMFGJ",
+            "text": "KingSpec 256GB 2230 SSD NVMe Gen3x4, M.2 PCIe 3.0 SSD with 3D NAND Flash, Internal Solid State Hard Drive for Steam Deck & Surface Pro (Read Speed up to 3500MB/s)"
+        }
+    },
+    {
+        "pricePerTB": "92.8846153846154",
+        "pricePerGB": "0.0943359375",
+        "price": "48.3",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BTDRKBBL",
+            "text": "Transcend TS512GMTE300S 512GB M.2 NVMe PCIe Gen 3x4 2230 Internal Solid State Drive with Speeds up to 2,000MB/s"
+        }
+    },
+    {
+        "pricePerTB": "72.5",
+        "pricePerGB": "72.5",
+        "price": "145.0",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09Q2NCFS7",
+            "text": "Corsair 2TB M.2 NVMe PCIe Gen4 SSD for PS5 - Up to 7,100MB/s Read & 6,800MB/s Write Speed"
+        }
+    },
+    {
+        "pricePerTB": "79.995",
+        "pricePerGB": "79.995",
+        "price": "159.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09F5X8ZMY",
+            "text": "CORSAIR MP600 PRO XT 2TB Gen4 PCIe x4 NVMe M.2 SSD \u2013 High-Density TLC NAND \u2013 Aluminum Heatspreader \u2013 M.2 2280 Form-Factor"
+        }
+    },
+    {
+        "pricePerTB": "79.995",
+        "pricePerGB": "79.995",
+        "price": "159.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BGJ1JF8L",
+            "text": "Corsair EX100U 2TB Portable USB Type-C Storage Drive - Blazing-Fast Storage to Any PC/Mac/Console, Gen2 x2 Connection, Up to 20Gbps, Plug and Play, Included USB Type-C and USB Type-A Cables - Black"
+        }
+    },
+    {
+        "pricePerTB": "79.995",
+        "pricePerGB": "79.995",
+        "price": "159.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BJKWSDN8",
+            "text": "Corsair MP600 PRO NH 2TB PCIe Gen4 x4 NVMe M.2 SSD \u2013 High-Density TLC NAND \u2013 M.2 2280 \u2013 DirectStorage Compatible - Up to 7,000MB/sec - No Heatsink - Black"
+        }
+    },
+    {
+        "pricePerTB": "94.99",
+        "pricePerGB": "94.99",
+        "price": "94.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CK2S298S",
+            "text": "Crucial T500 1TB Gen4 NVMe M.2 Internal Gaming SSD with Heatsink, Up to 7300MB/s, Playstation 5 Compatible + 1mo Adobe CC All Apps- CT1000T500SSD5"
+        }
+    },
+    {
+        "pricePerTB": "82.745",
+        "pricePerGB": "82.745",
+        "price": "165.49",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08RK2SR23",
+            "text": "SAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Drive Memory Card , Maximum Speed, Thermal Control MZ-V8P2T0B/AM"
+        }
+    },
+    {
+        "pricePerTB": "57.995",
+        "pricePerGB": "57.995",
+        "price": "115.99",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B25ML2FH",
+            "text": "Crucial P3 Plus 2TB PCIe Gen4 3D NAND NVMe M.2 SSD, up to 5000MB/s - CT2000P3PSSD8"
+        }
+    },
+    {
+        "pricePerTB": "75.99",
+        "pricePerGB": "0.07599",
+        "price": "75.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CCDBKKZY",
+            "text": "Silicon Power 1TB UD90 2230 NVMe 4.0 Gen4 PCIe M.2 SSD R/W up to 5,000/3,200MB/s Solid State Drive Compatible with Steam Deck (SU01KGBP44UD9007MM)"
+        }
+    },
+    {
+        "pricePerTB": "45.045",
+        "pricePerGB": "45.045",
+        "price": "90.09",
+        "capacity": 2.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C3B4BFQ3",
+            "text": "FN960 2TB M.2 2280 PCIe Gen4 x4 NVMe 1.4 Internal Solid State Drive with Heatsink - Speeds up to 4800MB/s, Dynamic SLC Cache, Compatible PS5 Internal SSD"
+        }
+    },
+    {
+        "pricePerTB": "101.15",
+        "pricePerGB": "101.15",
+        "price": "101.15",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07YD5TK4F",
+            "text": "Crucial X8 1TB Portable SSD - Up to 1050MB/s - PC and Mac - USB 3.2 External Solid State Drive - CT1000X8SSD9"
+        }
+    },
+    {
+        "pricePerTB": "69.99",
+        "pricePerGB": "0.06999",
+        "price": "69.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BZK5MP9D",
+            "text": "Timetec 1TB M.2 2230 SSD NVMe PCIe Gen3x4 Single Sided Solid State Drive Compatible with Steam Deck, Microsoft Surface pro 9/ pro 8/pro 7+/pro X/laptop3/laptop4/laptop go/book3, Mini PCs"
+        }
+    },
+    {
+        "pricePerTB": "89.0",
+        "pricePerGB": "89.0",
+        "price": "89.0",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BXKXXPYQ",
+            "text": "1TB M.2 2230 SSD NVMe PCIe Gen 3.0X4 Internal Solid State Drive Compatible with Steam Deck/Microsoft Surface pro 8/pro 7+/pro X/laptop3/laptop4(M.2 2230 PCIe 1TB)"
+        }
+    },
+    {
+        "pricePerTB": "950.0",
+        "pricePerGB": "0.95",
+        "price": "114.0",
+        "capacity": 0.12,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B094XQY9YQ",
+            "text": "Patriot Memory Burst Elite SATA 3 120GB SSD 2.5\" - 10 Pack"
+        }
+    },
+    {
+        "pricePerTB": "88.99",
+        "pricePerGB": "0.08899",
+        "price": "88.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2230 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BK6BMRR6",
+            "text": "INLAND TN436 1TB M.2 2230 SSD PCIe Gen 4.0x4 NVMe Internal Solid State Drive, 3D TLC NAND Gaming Internal SSD, Compatible with Steam Deck ROG Ally Mini PCs"
+        }
+    },
+    {
+        "pricePerTB": "126.865384615385",
+        "pricePerGB": "0.12884765625",
+        "price": "65.97",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C58ZNSV2",
+            "text": "Silicon Power 2-Pack 512GB A55 M.2 SSD (SLC Cache for Speed Boost) SATA III Internal Solid State Drive 2280"
+        }
+    },
+    {
+        "pricePerTB": "61.5192307692308",
+        "pricePerGB": "0.06248046875",
+        "price": "31.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B5JR18FK",
+            "text": "Timetec 512GB SSD 3D NAND QLC SATA III 6Gb/s M.2 2280 NGFF Read Speed Up to 550MB/s SLC Cache Performance Boost Internal Solid State Drive for PC Computer Laptop and Desktop (512GB)"
+        }
+    },
+    {
+        "pricePerTB": "65.3461538461538",
+        "pricePerGB": "0.0663671875",
+        "price": "16.99",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09RGYTZFC",
+            "text": "SkHynix 256GB PCIe NVMe 2230 SSD (HFM256GDGTINI) (OEM)"
+        }
+    },
+    {
+        "pricePerTB": "73.0576923076923",
+        "pricePerGB": "0.07419921875",
+        "price": "37.99",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CP9BZLZ5",
+            "text": "KingSpec NX Series 512GB Gen3x4 NVMe M.2 SSD, Up to 3500MB/s, 3D NAND Flash M2 2280 Internal Solid State Drive, for Desktop and Laptop"
+        }
+    },
+    {
+        "pricePerTB": "67.2884615384615",
+        "pricePerGB": "0.06833984375",
+        "price": "34.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B2K3ZCHH",
+            "text": "KingSpec 512GB 2.5\" SATA SSD, SATA III 6Gb/s Internal Solid State Drive - 3D NAND TLC Flash, for Desktop/Laptop/All-in-one(P3,512GB)"
+        }
+    },
+    {
+        "pricePerTB": "88.4230769230769",
+        "pricePerGB": "0.0898046875",
+        "price": "22.99",
+        "capacity": 0.26,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CF5B2K5Y",
+            "text": "RAOYI 256GB Internal SSD SATA III 2.5\u201dInternal Solid State Drive 3D NAND Flash Advanced SSD Internal Hard Drive Up to 500MB/s SATA 3 SSD Upgrade Performance for PC Laptop"
+        }
+    },
+    {
+        "pricePerTB": "69.2115384615385",
+        "pricePerGB": "0.07029296875",
+        "price": "35.99",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B7QKDJSY",
+            "text": "EN605 512GB M.2 SSD, NVMe1.3 PCIe Gen3 x4 SSD TLC, Internal Hard Drive, M.2 2280 - Read/Write Speed up to 2150/1600 MB/s - Internal SSD Compatible with Laptop & PC Desktop"
+        }
+    },
+    {
+        "pricePerTB": "101.884615384615",
+        "pricePerGB": "0.1034765625",
+        "price": "52.98",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CHW4YPCW",
+            "text": "KingSpec 512GB PCIe 4.0 M.2 2242 SSD - Read Speed up to 7200MB/s, Internal NVMe SSD 3D Gen4 NAND Flash, M2 for Laptop Desktop"
+        }
+    },
+    {
+        "pricePerTB": "307.461538461538",
+        "pricePerGB": "0.312265625",
+        "price": "39.97",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C58SLNMY",
+            "text": "Silicon Power 2-Pack 128GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5\" 7mm (0.28\") Internal Solid State Drive"
+        }
+    },
+    {
+        "pricePerTB": "116.583333333333",
+        "pricePerGB": "0.116583333333333",
+        "price": "13.99",
+        "capacity": 0.12,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BG714DJ7",
+            "text": "Vansuny 120GB SATA III SSD Internal Solid State Drive 2.5\u201d Internal Drive Advanced 3D NAND Flash up to 450MB/s SSD Hard Drive for PC Laptop"
+        }
+    },
+    {
+        "pricePerTB": "34.5961538461538",
+        "pricePerGB": "0.03513671875",
+        "price": "17.99",
+        "capacity": 0.52,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07CJF384F",
+            "text": "KingSpec M.2 SATA SSD, 128GB 2242 SATA III 6Gbps Internal M.2 SSD, Ultra-Slim NGFF State Drive for Desktop/Laptop/Notebook (2242, 128GB)"
+        }
+    },
+    {
+        "pricePerTB": "199.769230769231",
+        "pricePerGB": "0.202890625",
+        "price": "25.97",
+        "capacity": 0.13,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09HMWH1DG",
+            "text": "Silicon Power 128GB NVMe M.2 PCIe Gen3x4 2280 SSD (SP128GBP34A60M28)"
+        }
+    },
+    {
+        "pricePerTB": "109.99",
+        "pricePerGB": "109.99",
+        "price": "109.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BHJF2VRN",
+            "text": "Samsung 990 PRO Series - 1TB PCIe Gen4. X4 NVMe 2.0c - M.2 Internal SSD (MZ-V9P1T0B/AM)"
+        }
+    },
+    {
+        "pricePerTB": "81.6153846153846",
+        "pricePerGB": "0.082890625",
+        "price": "42.44",
+        "capacity": 0.52,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09SH2M3MM",
+            "text": "Addlink S70 Lite 512GB Ultra Durability Gaming SSD Maximum Speed 3000 MB/s Internal Solid State Hard Drive - M.2 2280 PCIe 3.0 NVMe Gen3X4 3D NAND SSD (ad512GBS70LTM2P)"
+        }
+    },
+    {
+        "pricePerTB": "145.98",
+        "pricePerGB": "0.14598",
+        "price": "72.99",
+        "capacity": 0.5,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07P1DY4MW",
+            "text": "OWC 500GB Aura Pro 6G 3D NAND Flash SSD Compatible with 2012 to Early 2013 MacBook Pro with Retina Display"
+        }
+    },
+    {
+        "pricePerTB": "123.0",
+        "pricePerGB": "0.124921875",
+        "price": "15.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08GJCPJK4",
+            "text": "Timetec 128GB SSD 3D NAND SATA III 6Gb/s M.2 2280 NGFF 64TBW Read Speed Up to 550MB/s SLC Cache Performance Boost Internal Solid State Drive for PC Computer Laptop and Desktop (128GB)"
+        }
+    },
+    {
+        "pricePerTB": "615.307692307692",
+        "pricePerGB": "0.624921875",
+        "price": "79.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B019SDOHMQ",
+            "text": "Kingston Digital 128GB KC400 SSD C2C 2.5\" Solid State Drive (SKC400S37/128G)"
+        }
+    },
+    {
+        "pricePerTB": "43.995",
+        "pricePerGB": "43.995",
+        "price": "87.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CJ7WSM56",
+            "text": "Verbatim 2TB SSD Vi560 Internal Solid State Hard Drive 3D NAND SATA III M.2 2280"
+        }
+    },
+    {
+        "pricePerTB": "183.291666666667",
+        "pricePerGB": "0.183291666666667",
+        "price": "43.99",
+        "capacity": 0.24,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B079S1X18X",
+            "text": "Verbatim 240GB Vx500 External SSD, USB 3.1 Gen 2 - Graphite"
+        }
+    },
+    {
+        "pricePerTB": "82.78",
+        "pricePerGB": "82.78",
+        "price": "82.78",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B083ZLXGB7",
+            "text": "Verbatim 1TB SSD Vi560 Internal Solid State Hard Drive 3D NAND SATA III M.2 2280"
+        }
+    },
+    {
+        "pricePerTB": "72.8958333333333",
+        "pricePerGB": "0.0728958333333333",
+        "price": "34.99",
+        "capacity": 0.48,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08TZV7XM6",
+            "text": "Lexar 480GB NQ100 SSD 2.5\u201d SATA III Internal Solid State Drive, Up to 550MB/s Read, Gray (LNQ100X480G-RNNNU)"
+        }
+    },
+    {
+        "pricePerTB": "83.3125",
+        "pricePerGB": "0.0833125",
+        "price": "39.99",
+        "capacity": 0.48,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07PGC3JKQ",
+            "text": "ADATA 3D-NAND SATA 2.5 inch Internal SSD (SU635S, 520/450MB/s, 480GB)"
+        }
+    },
+    {
+        "pricePerTB": "145.230769230769",
+        "pricePerGB": "0.1475",
+        "price": "18.88",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B4JB4B7K",
+            "text": "FS810 128GB SSD SATA III 2.5\" 6GB/s, Internal Solid State Drive 3D NAND Flash (Read/Write Speed up to 550/450 MB/s) Compatible with Laptop & PC Desktop \u2026"
+        }
+    },
+    {
+        "pricePerTB": "115.307692307692",
+        "pricePerGB": "0.117109375",
+        "price": "14.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09WDH74CV",
+            "text": "SSD 128GB SATA III 6Gb/s Internal Solid State Drive 2.5\u2033 7mm(0.28\u2033) 3D NAND TLC Chip Up to 550 Mb/s for Laptop and Pc KD650 (Black 128GB)"
+        }
+    },
+    {
+        "pricePerTB": "139.99",
+        "pricePerGB": "139.99",
+        "price": "139.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B071KGRXRG",
+            "text": "SanDisk Ultra 3D NAND 1TB Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - SDSSDH3-1T00-G25"
+        }
+    },
+    {
+        "pricePerTB": "32.105",
+        "pricePerGB": "32.105",
+        "price": "64.21",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BQX6NNVC",
+            "text": "Toshiba Canvio Basics 2TB Portable External Hard Drive USB 3.0, Black - HDTB520XK3AA"
+        }
+    },
+    {
+        "pricePerTB": "34.995",
+        "pricePerGB": "34.995",
+        "price": "69.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08JKG2TBQ",
+            "text": "Toshiba Canvio Advance 2TB Portable External Hard Drive USB 3.0, Black - HDTCA20XK3AA"
+        }
+    },
+    {
+        "pricePerTB": "82.495",
+        "pricePerGB": "82.495",
+        "price": "164.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0874Y5XFG",
+            "text": "SAMSUNG SSD T7 Portable External Solid State Drive 2TB, USB 3.2 Gen 2, Reliable Storage for Gaming, Students, Professionals, MU-PC2T0H/AM, Blue"
+        }
+    },
+    {
+        "pricePerTB": "115.307692307692",
+        "pricePerGB": "0.117109375",
+        "price": "14.99",
+        "capacity": 0.13,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09CR818J2",
+            "text": "KIOXIA (Toshiba 128GB M.2 2230 PCIe NVMe KBG40ZNS128G, OEM Package"
+        }
+    },
+    {
+        "pricePerTB": "34.995",
+        "pricePerGB": "34.995",
+        "price": "69.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07R4YNGLX",
+            "text": "Toshiba Canvio Slim 2TB Portable External Hard Drive USB 3.0, Black - HDTD320XK3EA"
+        }
+    },
+    {
+        "pricePerTB": "57.99",
+        "pricePerGB": "57.99",
+        "price": "57.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08CKFDPJ3",
+            "text": "TEAMGROUP AX2 1TB 3D NAND TLC 2.5 Inch SATA III Internal Solid State Drive SSD (Read Speed up to 540 MB/s) Compatible with Laptop & PC Desktop T253A3001T0C101"
+        }
+    },
+    {
+        "pricePerTB": "37.995",
+        "pricePerGB": "37.995",
+        "price": "75.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07CT5RDDX",
+            "text": "Toshiba HDWL120XZSTA L200 2TB Laptop PC Internal Hard Drive 5400 RPM SATA 6Gb/s 128 MB Cache 2.5\" 9.5mm Height - 2000 Internal Bare/OEM Drive"
+        }
+    },
+    {
+        "pricePerTB": "55.3300970873786",
+        "pricePerGB": "0.055654296875",
+        "price": "56.99",
+        "capacity": 1.03,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09WMP5B5N",
+            "text": "TEAMGROUP T-Force Vulcan Z 1TB SLC Cache 3D NAND TLC 2.5 Inch SATA III Internal Solid State Drive SSD (R/W Speed up to 550/500 MB/s) T253TZ001T0C101"
+        }
+    },
+    {
+        "pricePerTB": "35.98",
+        "pricePerGB": "0.03598",
+        "price": "17.99",
+        "capacity": 0.5,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B008RZLSWE",
+            "text": "Toshiba 500GB 2.5-inch SATA Laptop Hard Drive (5400rpm, 8MB Cache) MQ01ABD050, Mechanical Hard Disk"
+        }
+    },
+    {
+        "pricePerTB": "32.98",
+        "pricePerGB": "0.03298",
+        "price": "32.98",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B009AYVNMQ",
+            "text": "Toshiba MQ01ABD 1 TB 2.5\" Internal Hard Drive MQ01ABD100"
+        }
+    },
+    {
+        "pricePerTB": "107.692307692308",
+        "pricePerGB": "0.109375",
+        "price": "28.0",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09HY56CS4",
+            "text": "Toshiba(Kioxia) 256GB PCIe NVMe 2230 SSD (KBG40ZNS256G) (OEM), 30mm"
+        }
+    },
+    {
+        "pricePerTB": "30.99",
+        "pricePerGB": "0.03099",
+        "price": "30.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07NGTZWWZ",
+            "text": "Toshiba 1TB 5400RPM 8MB Cache SATA 3.0Gb/s 2.5 inch Notebook Hard Drive (MQ01ABD100V) - 1 Year Warranty,Usb"
+        }
+    },
+    {
+        "pricePerTB": "37.5",
+        "pricePerGB": "0.0375",
+        "price": "37.5",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07NGKRNVF",
+            "text": "Toshiba 1TB 5400RPM 8MB Cache SATA 3.0Gb/s 2.5 inch PS3/PS4 Hard Drive - 3 Year Warranty"
+        }
+    },
+    {
+        "pricePerTB": "59.99",
+        "pricePerGB": "59.99",
+        "price": "59.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CM8QWND1",
+            "text": "1TB SATA SSD 2.5'' SSD SATA III 6 Gb/s Internal Solid State Drive Up to 560 MB/s 3D NAND SLC Cache for Laptop and PC Desktop Performance Boost 7mm(0.28\u2033) S101Q"
+        }
+    },
+    {
+        "pricePerTB": "79.9975",
+        "pricePerGB": "79.9975",
+        "price": "319.99",
+        "capacity": 4.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08RX3343D",
+            "text": "SanDisk 4TB Extreme PRO Portable SSD - Up to 2000MB/s - USB-C, USB 3.2 Gen 2x2, IP65 Water and Dust Resistance, Updated Firmware - External Solid State Drive - SDSSDE81-4T00-G25"
+        }
+    },
+    {
+        "pricePerTB": "47.4975",
+        "pricePerGB": "0.0474975",
+        "price": "189.99",
+        "capacity": 4.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BVLRFFWQ",
+            "text": "Silicon Power 4TB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5\" 7mm (0.28\") Internal Solid State Drive (SP004TBSS3A55S25)"
+        }
+    },
+    {
+        "pricePerTB": "69.1923076923077",
+        "pricePerGB": "0.0702734375",
+        "price": "17.99",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0C31Z331L",
+            "text": "OEM Kioxia 256GB M.2 PCI-e NVME SSD Internal Solid State Drive 30mm 2230 Form Factor M Key Steam Deck"
+        }
+    },
+    {
+        "pricePerTB": "69.99",
+        "pricePerGB": "69.99",
+        "price": "69.99",
+        "capacity": 1.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B093275Z7V",
+            "text": "BUFFALO External SSD 1TB - Up to 600MB/s - USB-C - USB-A - USB 3.2 Gen 2 (Compatible with PS4 / PS5 / Windows/Mac) - External Solid State Drive Stick - \u200e\u200eSSD-PUT1.0U3B"
+        }
+    },
+    {
+        "pricePerTB": "63.99",
+        "pricePerGB": "63.99",
+        "price": "63.99",
+        "capacity": 1.0,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CBSSC21F",
+            "text": "KLEVV CRAS C910 1TB M.2 NVMe PCIe Gen4x4 Internal SSD with Heatsink, up to 5000MB/s with DRAM Cash (K01TBM2SP0-C91)"
+        }
+    },
+    {
+        "pricePerTB": "34.995",
+        "pricePerGB": "34.995",
+        "price": "69.99",
+        "capacity": 2.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09DDFRFHN",
+            "text": "MDD 2TB PS4 Hard Drive Upgrade Kit Bundle with Toshiba 2TB 5400RPM 16MB Cache SATA 6Gb/s 2.5in Internal Hard Drive (Works for PS4 Game Console)"
+        }
+    },
+    {
+        "pricePerTB": "59.98",
+        "pricePerGB": "59.98",
+        "price": "59.98",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0B4J9HHW6",
+            "text": "FS810 1TB SSD SATA III 2.5\" 6GB/s, Internal Solid State Drive 3D NAND Flash (Read/Write Speed up to 550/500 MB/s) Compatible with Laptop & PC Desktop"
+        }
+    },
+    {
+        "pricePerTB": "59.995",
+        "pricePerGB": "59.995",
+        "price": "119.99",
+        "capacity": 2.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B088N1PGTG",
+            "text": "Lexar 2TB SL200 Portable SSD, Read/Write Speeds of up to 550/400 MB/s, USB-C, External Solid State Drive (LSL200X002T-RNNNU)"
+        }
+    },
+    {
+        "pricePerTB": "61.99",
+        "pricePerGB": "0.06199",
+        "price": "61.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07FM9SSP6",
+            "text": "INLAND Professional 1TB SSD 3D NAND SATA III 6Gb/s 2.5\" 7mm Internal Solid State Drive (1T)"
+        }
+    },
+    {
+        "pricePerTB": "67.98",
+        "pricePerGB": "0.06798",
+        "price": "33.99",
+        "capacity": 0.5,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07R16CQWY",
+            "text": "Maxone Portable External Hard Drives 500GB-USB 3.0 2.5'' HDD Backup Storage for PC, Desktop, Laptop, Mac, MacBook, Xbox One, PS4,TV, Chromebook, Windows - Black"
+        }
+    },
+    {
+        "pricePerTB": "101.96",
+        "pricePerGB": "0.10196",
+        "price": "25.49",
+        "capacity": 0.25,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B091FRKWMD",
+            "text": "UnionSine 250GB 2.5\" Ultra Slim Portable External Hard Drive HDD-USB 3.0 for PC, Mac, Laptop, PS4, Xbox one,Xbox 360-HD-006-(Black)"
+        }
+    },
+    {
+        "pricePerTB": "65.0388349514563",
+        "pricePerGB": "0.065419921875",
+        "price": "66.99",
+        "capacity": 1.03,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09NPXMJH3",
+            "text": "INLAND Platinum 1TB SSD SATA III 6Gb/s 2.5\" 7mm TLC 3D NAND Internal Solid State Drive (1TB)"
+        }
+    },
+    {
+        "pricePerTB": "26.998",
+        "pricePerGB": "26.998",
+        "price": "134.99",
+        "capacity": 5.0,
+        "technology": "USB",
+        "formFactor": "TYPE-C",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07WZYM7RQ",
+            "text": "Western Digital 5TB My Passport Ultra for Mac Silver Portable External Hard Drive HDD, USB-C and USB 3.1 Compatible - Western DigitalBPMV0050BSL-WESN"
+        }
+    },
+    {
+        "pricePerTB": "106.125",
+        "pricePerGB": "0.106125",
+        "price": "50.94",
+        "capacity": 0.48,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B087CPLWKP",
+            "text": "KIOXIA EXCERIA 480 GB SATA 6Gbit/s 2.5-inch SSD"
+        }
+    },
+    {
+        "pricePerTB": "19.1658333333333",
+        "pricePerGB": "19.1658333333333",
+        "price": "229.99",
+        "capacity": 12.0,
+        "technology": "USB",
+        "formFactor": "USB-A",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07X4V2M3B",
+            "text": "Western Digital 12TB Elements Desktop External Hard Drive, USB 3.0 external hard drive for plug-and-play storage - Western DigitalBWLG0120HBK-NESN"
+        }
+    },
+    {
+        "pricePerTB": "124.916666666667",
+        "pricePerGB": "0.124916666666667",
+        "price": "14.99",
+        "capacity": 0.12,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B08LKMQ9T4",
+            "text": "Patriot Burst Elite 120GB Internal SSD - SATA 3 2.5\" - Solid State Drive - PBE120GS25SSDR"
+        }
+    },
+    {
+        "pricePerTB": "55.99",
+        "pricePerGB": "0.05599",
+        "price": "55.99",
+        "capacity": 1.0,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B087KBL5KS",
+            "text": "Patriot P210 1TB Internal SSD - SATA 3 2.5\" - Solid State Drive - P210S1TB25"
+        }
+    },
+    {
+        "pricePerTB": "729.166666666667",
+        "pricePerGB": "0.729166666666667",
+        "price": "175.0",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B094XR33WF",
+            "text": "Patriot Memory Burst Elite SATA 3 240GB SSD 2.5\" - 10 Pack"
+        }
+    },
+    {
+        "pricePerTB": "79.1458333333333",
+        "pricePerGB": "0.0791458333333333",
+        "price": "37.99",
+        "capacity": 0.48,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B09KY75FVW",
+            "text": "Patriot Memory P310 480GB Internal SSD - NVMe PCIe M.2 Gen3 x 4 - Low-Power Consumption Solid State Drive - P310P480GM28"
+        }
+    },
+    {
+        "pricePerTB": "750.0",
+        "pricePerGB": "0.76171875",
+        "price": "195.0",
+        "capacity": 0.26,
+        "technology": "NVMe",
+        "formFactor": "2280 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0CHJRF47H",
+            "text": "Patriot P300 256GB Internal SSD - NVMe PCIe Gen 3x4 - M.2 2280 - Solid State Drive - 10 Pack"
+        }
+    },
+    {
+        "pricePerTB": "146.076923076923",
+        "pricePerGB": "0.148359375",
+        "price": "18.99",
+        "capacity": 0.13,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B0BS9W3T48",
+            "text": "Patriot P220 128GB Internal SSD - SATA 3 2.5\" - Solid State Drive - P220S128G25"
+        }
+    },
+    {
+        "pricePerTB": "116.625",
+        "pricePerGB": "0.116625",
+        "price": "27.99",
+        "capacity": 0.24,
+        "technology": "SATA",
+        "formFactor": "2.5 Inches",
+        "affiliateLink": {
+            "url": "https://www.amazon.com/dp/B07G3YNLJB",
+            "text": "Crucial BX500 240GB 3D NAND SATA 2.5-Inch Internal SSD, up to 540MB/s - CT240BX500SSD1"
+        }
+    }
+]
